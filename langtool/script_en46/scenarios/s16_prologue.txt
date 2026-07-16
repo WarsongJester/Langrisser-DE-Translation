@@ -1,0 +1,32 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-16 {03}
+{04:83}In the
+Deepest 
+Blac毳
+<page>
+After an extreme battle,
+Ledin succeeded in repelling
+the demonic dragon. However,
+the dragon was yet
+undefeated. Having sustained
+serious injury, it retreated
+<page>
+to a cave. Ledin and company
+have formed a line in the 
+valley where the beast's
+cave lies. It is said that
+within lies the Dragon
+Slayer, a sword used by a 
+<page>
+hero to slay the beast in 
+ancient times...
+<page>
+Winning Conditions
+殃Defeat of the dragon
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

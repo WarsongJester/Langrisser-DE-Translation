@@ -1,0 +1,314 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Lord Ledin! It's terrible!
+### 1
+Chris, what's wrong, why are
+you up so late? 
+### 2
+The thieves have invaded the
+city! 
+<page>
+They're fighting the
+citizens right now! 
+### 3
+Damn! They attacked this
+early?! 
+<page>
+Chris! Evacuate as many 
+people as you can into the
+old church! 
+### 4
+O... Okay.
+### 5
+Damn... Its must be those 
+bandits from earlier. 
+### 6
+SHIKA!
+<page>
+EVERYONE MAKE SUFFER! 
+EVERYONE MAKE KILL! 
+### 7
+That bizarre man must be
+their leader! 
+<page>
+If we can take him out then 
+It's likely that the rest 
+will back off for now!
+### 8
+GRAAAAAAH!
+<page>
+YOU THINK CAN BEAT ME?! 
+### 9
+HE HE HE HE HE! 
+<page>
+STRIKE BOTH SIDES! GO FOR 
+GOLD! TAKE ALL! 
+<page>
+SHIKA!
+### 10
+No! 
+<page>
+They're over there too! 
+### 11
+Your Highness, leave this 
+sector to me. Please, see to
+<page>
+the safety of the other 
+citizens. 
+### 12
+Thank you, Duke Hawking.
+### 13
+Found a Rune Stone! 
+### 14
+You won't make it past me!
+<page>
+I'll drive every last one of
+you out of the city!
+### 15
+My power just wasn't
+enough... 
+### 16
+Amateurs! 
+<page>
+If you can't see the
+difference in our power, you
+<page>
+have no place on the
+battlefield!
+### 17
+Ungh... my chronic disease
+seems to be acting up 
+again...
+### 18
+You lot just don't know when
+to quit!
+### 19
+{04:6A}
+<page>
+や{04:E3}！
+### 20
+Fall Back!
+<page>
+Leave the rest to me! 
+### 21
+Forgive me, my lord. I'm
+counting on you!
+### 22
+Everybody listen!! Get into 
+the church as fast as 
+possible! 
+### 23
+Eyaa! 
+### 24
+Chris!! 
+<page>
+... Damn! 
+<page>
+The thieves have gotten that
+far into the city...? 
+### 25
+Kyaa!!
+### 26
+Chris! It's dangerous here! 
+Please stay back! 
+### 27
+Eek! Oh noo! Help meeee!
+### 28
+HEE HEE HEE! A WOMAN! A 
+WOMAN!
+<page>
+KILL! KILL! SACRIFICE YOU TO
+GODS! SHIKA!
+### 29
+Eeeeeeek! 
+<page>
+Someone, please help me!
+### 30
+Eeeek!
+### 31
+SHIKA! SHIKA! WE SACRIFICE
+YOU!
+### 32
+Help! Please! Help me!
+<page>
+Those masked freaks are 
+coming after me!! 
+### 33
+HEE HEE HEE! A WOMAN! A 
+WOMAN!
+<page>
+KILL! KILL! SACRIFICE YOU TO
+GODS! SHIKA!
+### 34
+Eeek! Someone, save me! 
+<page>
+Those weird men are 
+attacking me! 
+### 35
+Eeeek!
+### 36
+SHIKA! SHIKA! WE SACRIFICE
+YOU!
+### 37
+It seems my power just
+wasn't enough.... 
+### 38
+For them to have pushed into
+city... I was grievously
+careless... 
+### 39
+I will not permit savages to
+disturb the peace of my 
+city! 
+### 40
+Ungh! 
+### 41
+Duke Hawking! Are you all 
+right?! 
+### 42
+Forgive me... I must leave
+the rest to you, Prince.
+### 43
+UWAAAGH!
+### 44
+G-GODS! I COME SEE YOU NOW! 
+SH... SH... SHIKA!
+### 45
+YOU NOT SEE GODS ALONE! 
+### 46
+SHIKA!
+### 47
+SHIKA! SHIKA! 
+### 48
+GRAAAAAA... 
+### 49
+SHIKA! SHIKA! 
+### 50
+GRAAAAAA... 
+### 51
+SHIKA! SHIKA! 
+### 52
+GRAAAAAA... 
+### 53
+SHIKA! SHIKA! 
+### 54
+GRAAAAAA... 
+### 55
+SHIKA! SHIKA! 
+### 56
+GRAAAAAA... 
+### 57
+SHIKA! SHIKA! 
+### 58
+GRAAAAAA... 
+### 59
+NO CAN LOSE!
+### 60
+END IS HERE FOR ME! I NO CAN
+DO MORE! BWAAAAGH!
+### 61
+Finally, we've manged to
+drive them out... 
+### 62
+Thank you for saving me.
+<page>
+Please accept this Necklace,
+I'm sure some day it will be
+useful. 
+### 63
+Thanks. 
+### 64
+Obtained a Necklace!
+### 65
+Lord Ledin! 
+<page>
+Lord Ledin, there is someone
+here who wishes to speak to 
+you!
+### 66
+Your... Highness... 
+### 67
+Narm?!
+<page>
+Do you have news from 
+Baldea? 
+### 68
+The castle... Oh gods... the
+castle... ... has fallen... 
+### 69
+WHAT?!
+<page>
+My father?! What's happened 
+to my father?!
+### 70
+King Illzach allowed me to
+escape... He stayed at the
+<page>
+castle alone... to fight to 
+the end...
+### 71
+Father... 
+<page>
+Duke Hawking, I must leave
+at once!
+### 72
+Very well.
+<page>
+I shall join you as soon as 
+my forces are mustered. Do
+<page>
+nothing reckless until I
+arrive. 
+### 73
+Thank you, I truly
+appreciate it.
+### 74
+I'll come with you! 
+### 75
+But what about your 
+injuries? 
+### 76
+I've already retreated once.
+I won't do it again.
+### 77
+I understand, but don't push
+yourself. 
+### 78
+It looks like you'll be 
+leaving then, Lord Ledin... 
+### 79
+Chris...
+### 80
+I will pray for the goddess 
+to watch over you...
+### 81
+King Illzach asked that I 
+give this sword to you, my
+prince... 
+### 82
+Obtained a Great Sword! 
+### 83
+Father... 
+### 84
+I have no excuses, my 
+prince. I... I'm so sorry...
+### 85
+No, Narm, it's not your 
+fault.
+<page>
+Don't be distressed.
+### 86
+Attention all troops! 
+<page>
+We will now begin our march 
+on Baldea!
+### 87
+Yes sir!
+### 88
+If we want to catch the 
+Imperial army off guard, we 
+<page>
+should cut through the
+Forest of Death.
+### 89

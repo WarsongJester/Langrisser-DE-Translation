@@ -1,0 +1,236 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+竡ser Welcome, descendants
+of Elthlead.
+### 1
+Who are you?! 
+### 2
+竡ser My name is B竍er. 
+<page>
+I'm the lord of 
+Velzeria---nay, the master
+of this entire world. 
+### 3
+What did you say?!
+<page>
+I won't let you do as you 
+please with this world! 
+### 4
+竡ser Heh... You are a
+rather lively bunch.
+<page>
+Nicolis, Nagya, do be kind
+and entertain our guests for
+a while!
+### 5
+As you command, My Lord.
+<page>
+I shall allow them a
+fleeting glimpse of my true 
+power...
+<page>
+O ye who lurk within the
+hollows of the void...
+<page>
+Master of deceit and weaver 
+of illusions. 
+<page>
+Hearken to my call and grant
+unto me...An awaiting vessel
+for your vast powers! 
+<page>
+Suecia Nuel Kaos. Mulvi...
+Ricohn! 
+### 6
+Nngh! My head...! 
+### 7
+Aaah! My head...
+### 8
+Aaah! My head...
+### 9
+Nngh! My head...! 
+### 10
+?! What's wrong?! 
+### 11
+He he he... I merely
+bestowed upon her a simple
+hex to cloud her senses.
+<page>
+Your dear friend will find
+the prospect of your
+murder... quite enchanting. 
+### 12
+You can't get away with 
+this! 
+### 13
+I can't believe I'd fall
+here... 
+### 14
+Prepare yourself! 
+### 15
+This... this cannot be...!
+### 16
+This will finish you! 
+### 17
+Damn! 
+<page>
+He got me! I'm leaving it to
+you!
+### 18
+Yaaa! 
+### 19
+Kyaaa!
+### 20
+Don't ye be lookin' down on 
+this corsair!!
+### 21
+Damn it!
+### 22
+My prince, I have an idea.
+<page>
+If you can defeat Nicolis,
+there's a chance it may 
+break his spell.
+### 23
+I understand. 
+<page>
+In that case let's hurry and
+target Nicolis! 
+### 24
+!?
+### 25
+Was my magic too weak...? 
+### 26
+I've come this far, I won't 
+run away! 
+### 27
+Please see to the rest! 
+### 28
+Onward! 
+### 29
+Forgive me, Prince. 
+<page>
+must fall back for a time.
+### 30
+Leave Nicolis to me!
+<page>
+I'll hurry and dispel his 
+magic!
+### 31
+I won't let you return
+alive!
+### 32
+Tch!
+<page>
+Is this all I can do? 
+### 33
+GUGAAAA!
+### 34
+GIEEEEE!
+### 35
+GUGAAAA!
+### 36
+GIEEEEE!
+### 37
+GUGAAAA!
+### 38
+GIEEEEE!
+### 39
+GUGAAAA!
+### 40
+GIEEEEE!
+### 41
+GUGAAAA!
+### 42
+GIEEEEE!
+### 43
+I suppose it's time to stop 
+the games. I shall unleash
+my my true resolve. 
+### 44
+Futile! You truly believe 
+you can break my
+enchantment?
+<page>
+A gnat like you could never 
+hope to rival my genius!
+### 45
+Impossible... My threads蜆
+they have been severed?!
+<page>
+I shall not forget this 
+insolence!
+### 46
+Huh?! What... What was I
+doing?
+### 47
+You're okay now!
+<page>
+You were ensnared by
+Nicolis's dark sorcery. 
+### 48
+Eh?!
+<page>
+What am I doing over here?
+### 49
+You're okay now!
+<page>
+You were ensnared by
+Nicolis's dark sorcery. 
+### 50
+UHYA HYA HYA! 
+<page>
+I shall do the world a favor
+and exterminate you little
+parasites.
+### 51
+Have you grasped the majesty
+of our god yet?!
+<page>
+Resistance is like trying to
+hold back the tide! 
+### 52
+Gyaaah! 
+<page>
+D-damn it all!! I'm gonna 
+make you pay for this!
+<page>
+Just you wait!
+### 53
+竡ser Pointing your sword at
+me is foolish indeed. 
+### 54
+竡ser For a human you've
+done quite well.
+<page>
+But we will meet again. 
+### 55
+竡ser The time has come for 
+you to make a choice. 
+<page>
+Until now, I've given you 
+the opportunity to flee and 
+spare your lives. 
+<page>
+But should you persist, I 
+will eagerly await you in 
+the underground sanctuary.
+### 56
+Quickly! We're only a little
+way from Velzeria Castle! 
+<page>
+Let's move out! 
+### 57
+Yes sir!
+### 58
+Yes sir!
+### 59
+竡ser!
+<page>
+The time is at hand! We 
+shall defeat you, and with
+<page>
+Langrisser, seal you and
+your henchmen away forever! 
+### 60

@@ -1,0 +1,217 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Why are there so many stone 
+statues in this town? 
+### 1
+?! Something's coming at us 
+from our flanks!
+### 2
+AAAH! They're Basilisks!
+### 3
+What?!
+<page>
+Then these statues... Gods, 
+they're people! 
+### 4
+We must remain vigilant. We 
+risk being petrified
+ourselves.
+### 5
+What can we do? There must
+be some way to turn them
+back... 
+### 6
+(Various Commanders) Hmmm...
+this mirror...? 
+<page>
+Whoa! It lit up!
+### 7
+(Various Commanders) What is
+this mirror...? 
+<page>
+This mirror.... this
+mirror... 
+<page>
+It's... It's glowing?!
+### 8
+My body... I can move!
+### 9
+Has the stone curse been
+broken?!
+<page>
+All forces, charge! Crush 
+every last one of these 
+lizards!
+### 10
+Lance!
+<page>
+Why are you here?!
+### 11
+Save it!
+<page>
+First, let's kill every last
+one 
+### 12
+of these lizard bastards! 
+Ledin I understand. 
+<page>
+Everyone, let's go! 
+### 13
+We'll slay every last one!
+### 14
+I can't believe we lost to
+monsters... 
+### 15
+Take this!
+### 16
+I can't fight anymore.
+<page>
+I leave the rest to you!
+### 17
+Damn monsters!!!
+### 18
+Damn! 
+<page>
+I can't move my leg! You'll 
+have to take care of them 
+for me! 
+### 19
+Everyone, be careful! We
+have to avoid being turned
+to stone! 
+### 20
+Chris, are you okay?! 
+### 21
+Yes!
+<page>
+I just need a rest! 
+### 22
+Arrr...these scurvy 
+monsters! Kill every bloody 
+one of 'em! 
+### 23
+I be headin' for deeper 
+waters! 
+<page>
+Forgive me, me hearties!
+### 24
+I wonder... is someone
+controlling these monsters
+from the shadows? 
+### 25
+You won't escape from me! 
+### 26
+I can't do anything more. 
+<page>
+I'm beaten this time. 
+### 27
+Don't move! 
+### 28
+I was careless... 
+### 29
+Advance!
+### 30
+Ngh...
+<page>
+I leave the rest to you!
+### 31
+You bastards, how dare you
+turn me into a garden 
+ornament! 
+<page>
+I'll kill every last one of 
+you!
+### 32
+Lance, are you okay?
+### 33
+This is nothing!
+### 34
+Leave the rest to us! 
+### 35
+Sorry!
+### 36
+Kyaaa!
+### 37
+Kyaaa!
+### 38
+Well, that looks like the 
+last of them. 
+<page>
+So Lance, will you explain
+why you're here like you
+promised? 
+### 39
+It looks like that's the
+last of them... 
+### 40
+My body... Ha ha! I can move
+again!
+### 41
+Is the stone curse breaking?
+### 42
+Lance!
+<page>
+Why are you here?!
+### 43
+GYOGYOOO! 
+### 44
+PUSHAAA!
+### 45
+GYOGYOOO! 
+### 46
+GAEEEN! 
+### 47
+GUGAAAA!
+### 48
+GOOON!
+### 49
+GUGAAAA!
+### 50
+GAEEEN! 
+### 51
+Ever since I fled Dalsis, 
+these monsters have been
+<page>
+hounding me. Eventually,
+they caught me here.
+<page>
+It seems they are getting 
+stronger by the da簔. 
+<page>
+At this rate, no land will
+be safe from their path of
+destruction.
+### 52
+... 
+<page>
+It's because the seal on
+Langrisser has been 
+shattered; this evil has
+<page>
+been released into the
+world.
+### 53
+It appears there was truth
+to that story of the sword
+sealing away a great evil.
+<page>
+In this case, I'll cooperate
+with you. 
+<page>
+However, only until the 
+monsters are defeated.
+<page>
+After that, we finish our 
+battle. 
+### 54
+In that case, we both need
+to live through this. 
+### 55
+Heh, it would seem so.
+<page>
+Try not to get yourself 
+killed, Ledin.
+### 56
+The same to you, Lance. 
+### 57

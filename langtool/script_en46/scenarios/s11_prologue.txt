@@ -1,0 +1,28 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-11 {03}
+{04:83}Dalsis
+Castle殱
+<page>
+Ledin and company were able 
+to capture Valk.
+Furthermore, Lord Hawking 
+led an army from Salrath to 
+join their forces in the
+fight. After careful
+<page>
+preparation, the Baldea 
+troops have encircled Dalsis
+Castle for a final showdown 
+with Kaiser Digos.
+<page>
+Winning Conditions
+殃Ledin reaches the first 
+floor stairway
+殃Death of all enemies
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

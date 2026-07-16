@@ -1,0 +1,28 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-15 {03}
+{04:83}Cry of the
+Demonic 
+Dragon殱
+<page>
+Like a chorus of evil,
+demons began appearing one
+after another in the land.
+An evil dragon, one of the
+strongest of all demons,
+appeared before Ledin 
+<page>
+seeking to take Langrisser. 
+To save the people of the 
+village, Ledin engaged in a 
+desparate fight.
+<page>
+Winning Conditions
+殃Defeat of the evil dragon 
+<page>
+Losing Conditions 
+殃Death of Ledin
+殃Death of all NPCs 
+<page>
+

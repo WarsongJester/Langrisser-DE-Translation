@@ -1,0 +1,202 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Welcome to El Sallia. I am
+Lushiris. They who dwell on 
+the earth below know me as
+<page>
+{05}
+the Goddess of Light. 
+### 1
+Once more, a gathering
+darkness has begun to 
+### 2
+threaten our world. Long
+have I awaited the
+appearance of one as
+<page>
+{05}
+courageous as you.
+### 3
+In order to test whether you
+are capable of saving this
+world, I must put forth a 
+<page>
+{05}
+series of questions.
+### 4
+Speak, then Ledin, and let
+your heart guide your 
+answers to my trial.
+### 5
+メサイヤ世界へようこそっス。
+私の名はＯ庭。メサイヤ{04:D6}
+ロリ庭と呼ばれ{04:E1}っスよ。
+### 6
+今、この世界は、マスター前で
+フォーエバーって感じですか。
+### 7
+そこで私はずっと、
+{04:82}ような勇気ある者が現れ
+るのを待ってたって感じっス。
+### 8
+{04:A9}が本当に{04:41}
+救えるかどうか試すため、
+{04:6D}いくつか質問をします。
+### 9
+それでは{02}。
+私の質問に答え{04:37}
+### 10
+When the world is facing a
+catastrophe, what will save 
+us? 
+### 11
+Great and powerful gods 
+### 12
+A wealth of knowledge 
+### 13
+My own strength 
+### 14
+What do you expect in a unit
+under your command? 
+### 15
+Military Might
+### 16
+Total Obedience 
+### 17
+High Morale 
+### 18
+Ideally, what abilities 
+should an excellent army
+possess?
+### 19
+My power is enough
+### 20
+Impenetrable defense
+### 21
+The power to obliterate the 
+enemy 
+### 22
+When confronted by being of 
+evil, how do you perceive 
+it? 
+### 23
+A wicked enemy
+### 24
+A being to worship
+### 25
+An insignificant being
+### 26
+What do you live for in this
+world?
+### 27
+To protect the ones I love
+### 28
+To strengthen myself
+### 29
+To follow my dreams 
+### 30
+An ally unit has been 
+surrounded, but yours is
+also in danger. What would
+<page>
+{05}
+be your command?
+### 31
+Order a full retreat
+### 32
+Hold out for reinforcements 
+### 33
+Rush to the unit's aid
+### 34
+If there is one thing in
+life you could have, what 
+would it be?
+### 35
+Knowledge 
+### 36
+Wealth
+### 37
+Power 
+### 38
+If you obtained great power,
+what would you use it for?
+### 39
+To protect my people
+### 40
+To rule over all
+### 41
+To uphold justice 
+### 42
+What is love to you?
+### 43
+Something mutually given
+### 44
+Something received
+### 45
+A source of infinite power
+### 46
+What do you desire in this
+world?
+### 47
+Love, hope and courage
+### 48
+Freedom to live as I please 
+### 49
+Order and unity 
+### 50
+What do you believe is the
+most important trait of a 
+ruler?
+### 51
+Charisma
+### 52
+Decisiveness
+### 53
+Power to take action
+### 54
+What do you think is
+necessary to become a hero? 
+### 55
+Tenacity
+### 56
+Leadership
+### 57
+Courage 
+### 58
+A real man has蜆
+### 59
+An all-enveloping love
+### 60
+A burning soul
+### 61
+A body of steel 
+### 62
+At the start of a battle, 
+what skills do you require
+the most? 
+### 63
+Vast tactical knowledge 
+### 64
+Calm judgement
+### 65
+Mighty power
+### 66
+What do you look for in an
+ideal unit? 
+### 67
+A small, elite force
+### 68
+Strength in numbers 
+### 69
+I alone am enough 
+### 70
+Lastly, what do you fight 
+for?
+### 71
+To obtain glory and honor 
+### 72
+To protect my homeland
+### 73
+To protect the ones I love
+### 74

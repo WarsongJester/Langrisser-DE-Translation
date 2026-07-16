@@ -1,0 +1,267 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Eh? You STILL aren't dead?! 
+<page>
+Everyone, form up for a 
+stronger attack! Let's crush
+that bastard! 
+### 1
+Yes sir!
+### 2
+Looks like these guys are 
+getting serious...
+### 3
+It's no good! We're badly 
+outnumbered!
+<page>
+If we continue like this, 
+we'll be wiped out! 
+### 4
+Quit your whining! We may be
+outnumbered, but we're not
+yet outmatched! 
+<page>
+The prince will come to help
+us for sure! Just do your 
+best until then!
+### 5
+Who is defending Anzel
+Fortress? 
+### 6
+It appears to be Sir Albert 
+and his troops. 
+### 7
+Sink me! I can scarce 
+believe that landlubber's 
+held out this long. 
+### 8
+All right! Let's drive these
+guys out! 
+### 9
+I wonder how much longer
+Albert can hold that line?
+### 10
+Hurry up! 
+<page>
+We need to help Albert as 
+soon as possible! 
+### 11
+Ledin!
+<page>
+I grow weary of your
+meddling! 
+### 12
+Lance? Damn, not again. 
+### 13
+That's right! You made a
+fool of me before- and now
+I'll repay the favor! 
+<page>
+This ends today! Let's go!
+### 14
+It's the prince!
+<page>
+The prince himself came to
+help! Everyone! We just need
+to hold out a little longer!
+### 15
+Wait for me, Albert!
+<page>
+I'll be there to help you 
+soon! 
+### 16
+Wait for me, Albert!
+<page>
+I'm coming to help you right
+now!
+### 17
+Out of my way!
+### 18
+Sorry, Albert... It seems 
+I've fallen early...
+### 19
+I'm not going to let you
+have your way any longer! 
+### 20
+Aaaah!
+### 21
+Lady Narm, back off!
+### 22
+If you want to live, be good
+and get out of my way!
+### 23
+Damn! My arm's busted!
+<page>
+I'm leaving it to you!
+### 24
+Albert is in danger, we have
+to hurry! 
+### 25
+This isn't good!
+### 26
+Eeeeek! 
+### 27
+Avast! On the seas, all 
+scallywags feared the name
+of Captain Taylor!
+<page>
+Want to know why? Because 
+dead men tell no tales, 
+savvy?
+### 28
+Blast! These scallywags be
+havin' more fight in 'em
+than expected!
+### 29
+Hold it right there!
+### 30
+Aaaah!
+### 31
+You must not falter!
+<page>
+Don't fall back even one
+step! We have to hold out 
+till the prince arrives!
+### 32
+Lord Albert!
+<page>
+The line is breaking! We
+can't hold out any more!
+### 33
+Damn, I'm helpless. 
+<page>
+If I'm going down, I'm
+taking you with me! 
+### 34
+Not yet! I won't be defeated
+yet!
+### 35
+Guhh! 
+<page>
+Not here! 
+### 36
+Lord Ledin! 
+<page>
+Anzel Fortress has fallen...
+### 37
+Al.. Albert...
+### 38
+Yaaaaaa! How can you waste
+time with such a mangy
+fortress like this? 
+<page>
+I'll show you idiots how
+it's done!
+### 39
+Shit! I won't be defeated!
+### 40
+N-No way! 
+<page>
+Guwaaa! 
+### 41
+Damn! Our attack failed.
+<page>
+Let's withdraw for now! 
+### 42
+Albert! 
+<page>
+Albert, are you here?!
+### 43
+I'm here, prince. 
+### 44
+Are you all right?
+<page>
+I apologize for my
+tardiness.
+### 45
+They barely managed to
+scratch me. 
+### 46
+According to the messenger
+from reconnaissance, it 
+<page>
+seems the enemy has begun to
+retreat.
+### 47
+According to the messenger
+from reconnaissance, it 
+<page>
+seems the enemy has begun to
+retreat.
+### 48
+Handsomley now, men!
+<page>
+If we be havin' a chance in 
+this war, we'll have to 
+block their retreat!
+<page>
+We'll chase them down!
+### 49
+Handsomley now, men!
+<page>
+If we be havin' a chance in 
+this war, we'll have to 
+block their retreat!
+<page>
+We'll chase them down!
+### 50
+Okay, let's head after them!
+### 51
+Avast! Come out for a swim, 
+you scurvy dogs!
+<page>
+I can't very well keelhaul
+ya on land! 
+### 52
+Come on, prepare yourself!
+### 53
+Guhuu!
+### 54
+Taste the power of our
+cavalry!
+### 55
+Die!
+### 56
+H-How regrettable...
+### 57
+You think you assholes have 
+what it takes to beat me?!
+<page>
+I have news for you, you
+don't!
+### 58
+This... this is fate... 
+### 59
+Impudent fools! 
+### 60
+Gwaaaah!
+### 61
+Go! 
+### 62
+Glory to the Dalsis Empire
+forever!
+<page>
+It's my time to visit Davey 
+Jones's Locker... 
+### 63
+I hope you're prepared... 
+### 64
+Damn! 
+<page>
+I'll be back to defeat you
+later!
+### 65
+You're not getting away from
+me! 
+### 66
+Dammit! 
+### 67
+Just retreat! 
+<page>
+If you continue this
+foolishness, you'll die!
+### 68
+O-Okay... 
+### 69
+### 70

@@ -1,0 +1,29 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-02 {03}
+{04:83}{05}To Salrath{05}」
+<page>
+The young prince, Ledin, and
+Volkoff escaped from the
+castle under, guided by 
+Narm's troops. While on the 
+road to Salrath, Ledin met a
+young priestess-in-training 
+<page>
+named Chris. He decided to
+protect her on her journey
+there. However, a band of 
+thieves had set their sights
+on the small group... 
+<page>
+Winning Conditions
+殃Chris escapes to the gates
+in the upper-left of the map
+殃Defeat of all enemies 
+<page>
+Losing Conditions 
+殃Death of Ledin
+殃Death of Chris
+<page>
+

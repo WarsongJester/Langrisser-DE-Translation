@@ -1,0 +1,29 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-20 {03}
+{04:83}{05}Seal of Evil{05}」
+<page>
+After the defeat of Nicolis,
+Ledin and the descendants of
+light struggled onward to 
+the deepest point of the
+temple. However, the
+ceremony to revive the god
+<page>
+of darkness and death,
+Chaos, had alreay begun.
+Now, in this ancient temple 
+of darkness, the last battle
+between the descendants of
+light and the children of 
+<page>
+darkness has begun. 
+<page>
+Winning Conditions
+殃Defeat of all enemies 
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

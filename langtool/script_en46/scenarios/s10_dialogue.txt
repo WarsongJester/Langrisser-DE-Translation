@@ -1,0 +1,238 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Their formation be like an
+iron wall, I say... 
+### 1
+Highness, if this fight 
+drags out too long, enemy 
+<page>
+reinforcements are bound to 
+arrive. 
+### 2
+Right, treat this like our
+final strike! 
+<page>
+Let's finish this now!
+### 3
+The enemy has resumed their 
+attack! 
+### 4
+Persistent little things
+aren't they?
+### 5
+Ho! How many times till you 
+swabs learn you're wasting
+your time?
+<page>
+Prepare yourselves, 
+Baldeans. 
+### 6
+It seems like the enemies 
+are holding out for 
+reinforcements. 
+### 7
+Be cautious when you engage 
+the enemy.
+### 8
+Wh-What?! 
+### 9
+Lord Ledin! 
+<page>
+Enemy reinforcements are
+here! 
+### 10
+Don't be distracted!
+<page>
+We must act quickly to bring
+down the castle if we're to 
+succeed!
+### 11
+Crush them! 
+### 12
+It's reinforcements!
+<page>
+Reinforcements are coming!
+### 13
+Took you long enough. Begin 
+the counterattack now!
+### 14
+We need to bring down the 
+castle before reinforcements
+arrive! 
+### 15
+Let's go! 
+### 16
+We were so close to Dalsis
+Castle... 
+### 17
+You'll never make it through
+the walls of Castle Valk! 
+<page>
+What on Earth are you 
+thinking?! HA HA HA HA! 
+### 18
+You'll regret 
+underestimating me just 
+because I'm a woman!
+### 19
+This is bad!
+### 20
+Don't get in my way!
+### 21
+Damn! 
+<page>
+My shoulder is busted!
+<page>
+Take it from here!
+### 22
+Kyaaa!
+### 23
+AAAAH!
+### 24
+Gangway!
+### 25
+Thunder and lightning!
+<page>
+Ye're a fine hand in a
+fight!
+### 26
+Never trifle with a 
+sorceress!
+### 27
+Aah! I can't fight anymore! 
+### 28
+I see you!
+### 29
+I can't fall here...
+### 30
+Die!
+### 31
+Uwaaa!
+### 32
+I'll turn you into chum!
+### 33
+Uwaaa!
+### 34
+Your march ends here! 
+### 35
+Blast!
+<page>
+Gufuuh! 
+### 36
+This isn't good, the castle 
+gates are gonna fall! 
+### 37
+Tsk, not bad! But I can't 
+let you past here!
+### 38
+This will be the last thing 
+you ever see! 
+### 39
+Kindly die already! 
+### 40
+When next we meet, I won't
+forgive this! 
+### 41
+Blood will be spilled this
+night!
+### 42
+You're pretty good to have
+made it here. 
+<page>
+However, this will be your
+end!
+### 43
+Time me to meet my maker... 
+I'll give your regards to 
+God.
+### 44
+Hyaaa!
+<page>
+Where the hell are those
+reinforcements! 
+### 45
+I can't turn over this
+castle! 
+### 46
+Kaiser Digos, my time has 
+come... 
+<page>
+Gufuu!
+### 47
+How foolish...
+### 48
+The remaining soldiers are
+fleeing.
+### 49
+Forget about them. They 
+aren't a threat anymore.
+### 50
+Lord Ledin! 
+<page>
+Somebody wishes to see you. 
+### 51
+It has been quite some time,
+your highness.
+### 52
+Duke Hawking! 
+### 53
+I have come to join your
+cause.
+<page>
+Unless an old veteran like
+me would only be a
+hindrance.
+### 54
+Not a chance, your help 
+would be greatly
+appreciated.
+### 55
+At last, Dalsis Castle lies 
+right before our eyes.
+### 56
+Yeah. 
+<page>
+It's time to prepare for the
+final stage of our advance! 
+### 57
+Come to think of it, I found
+something earlier that may
+interest you. 
+### 58
+It's a magical wand.
+<page>
+It may be useful to take it 
+with you. 
+### 59
+Obtained a Wand!
+### 60
+Your Highness!
+<page>
+Our preparations are
+complete. We're ready to
+depart at any time! 
+### 61
+Excellent! Onward to Dalsis 
+Castle! 
+### 62
+Those bastards from 
+Baldea... They're getting 
+way too cocky!
+### 63
+Behold, Lord Distan 
+approaches! 
+<page>
+Outta' the way! 
+### 64
+How dare they, my Earth 
+Dragon! 
+<page>
+I won't forget this!
+### 65
+Those reckless bastards!
+<page>
+Trample and crush them! 
+### 66
+My plan was.... a failure!
+### 67

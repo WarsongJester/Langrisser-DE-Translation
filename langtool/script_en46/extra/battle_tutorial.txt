@@ -1,0 +1,183 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+An explanation of this
+world's tactics may aid you 
+on your quest.
+### 1
+Would you like an 
+explanation?
+### 2
+Very well then, I'll teach
+you the basics of battle
+tactics.
+<page>
+Your units consist of 
+commanders and soldiers.
+<page>
+The commanders include
+yourself and your 
+companions. 
+<page>
+Soldiers must be hired for
+at the start of every stage.
+<page>
+Purchasing troops is a
+necessary preparation for 
+battle. 
+### 3
+Would you like me to explain
+Command Range?
+### 4
+When battle actually begins,
+try to keep soldiers in the 
+vicinity of their commander.
+<page>
+The blinking area around the
+commander is called the 
+Command Range.
+<page>
+Soldiers within this zone 
+receive a bonus to their
+<page>
+Attack and Defense
+statistics. 
+<page>
+It is very dangerous for a
+lone soldier unit to enter
+<page>
+combat when outside the 
+range.
+### 5
+Would you like me to explain
+troop HP recovery?
+### 6
+A unit adjacent to its
+commander will recover 3 HP 
+at the start of every turn. 
+<page>
+The only other way to 
+recover unit HP is by using 
+magic.
+<page>
+Also remember, as HP
+decreases, so does the
+strength of a unit's attack.
+### 7
+Would you like me to explain
+commander HP recovery?
+### 8
+A commander can regain 3 HP 
+if you select the Heal
+command.
+<page>
+You may also recover 2 MP by
+doing this. 
+### 9
+Would you like an 
+explanation of troop
+affinity? 
+### 10
+Each unit type has its own
+attribute.
+<page>
+Depending on its attribute, 
+it will have an advantage or
+a disadvantage in combat. 
+<page>
+Here are some of the
+basics... 
+<page>
+Infantry are strong against 
+pikemen, but weak against 
+cavalry.
+<page>
+Pikemen are strong against
+cavalry, but weak against 
+infantry. 
+<page>
+Cavalry are strong against
+infantry, but weak against
+pikemen.
+<page>
+Sea units are slow on land
+but fast in the water.
+<page>
+Flying units have excellent 
+mobility, but are incredibly
+weak to bowmen. 
+<page>
+Bowmen can attack the enemy 
+from a distance and are 
+<page>
+strong against flying 
+soldiers. 
+<page>
+However, they cannot
+withstand a direct assault
+<page>
+and will likely be wiped
+out.
+<page>
+Consider the map, as well as
+the commanders' arrangement,
+before hiring your troops.
+### 11
+Would you like an 
+explanation on how to gain
+EXP?
+### 12
+When a troop defeats an 
+enemy unit, some EXP is 
+awarded to its commander. 
+<page>
+When an enemy commander is
+defeated, all troops under
+<page>
+its command are destroyed as
+well. 
+<page>
+However, no EXP will be 
+gained from such kills. 
+<page>
+That's why it's best to 
+defeat all troops before
+defeating the commander.
+### 13
+Would you like an 
+explanation on how to 
+position your Commanders? 
+### 14
+Before conducting your
+sortie, all your Commander
+<page>
+units must be positioned on 
+the map.
+<page>
+Commanders to be positioned 
+will have their names shown 
+in bright white.
+<page>
+Also, depending on the stage
+there may be times when the 
+arrangement is fixed. 
+<page>
+In this case, you can't 
+position commanders, but you
+<page>
+can still purchase troops 
+and items.
+### 15
+You should have a good
+understanding of common 
+tactics by now. 
+<page>
+Don't forget to hire troops.
+<page>
+A single unit may mean the
+difference between victory
+or defeat...
+### 16
+Well then, I hope to see you
+perform your best.
+### 17

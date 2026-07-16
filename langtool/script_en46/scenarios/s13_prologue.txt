@@ -1,0 +1,27 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-13 {03}
+{04:83}{05}The Village 
+of Stone{05}」
+<page>
+Though Digos was defeated, a
+new battle has begun. With
+Langrisser's seal broken, 
+evil has been unleashed on
+the world once again. Ledin 
+and company discover a
+<page>
+village that has been turned
+to stone by the powers of 
+darkness. 
+<page>
+Winning Conditions
+殃Defeat of all enemies 
+<page>
+Losing Conditions 
+殃Death of Ledin
+殃All commanders are turned 
+to stone
+<page>
+

@@ -1,0 +1,285 @@
+# Strings 0-36 = item names (<=16 chars). 37+ = descriptions:
+# 3 strings per item (line1, line2, stat line), each <=32 chars, no <page>.
+### 0
+Knife 
+### 1
+War Hammer
+### 2
+Great Sword 
+### 3
+Wand
+### 4
+Flame Lance 
+### 5
+Devil Axe 
+### 6
+Dragon Slayer 
+### 7
+Langrisser
+### 8
+Langrisser
+### 9
+Iron Dumbell
+### 10
+Masayan Sword 
+### 11
+Orb 
+### 12
+Holy Rod
+### 13
+Holy Rod
+### 14
+Dark Rod
+### 15
+Long Bow
+### 16
+Arbalest
+### 17
+Alhazad 
+### 18
+Alhazad 
+### 19
+Odin's Buckler
+### 20
+Small Shield
+### 21
+Large Shield
+### 22
+Chain Mail
+### 23
+Plate Armor 
+### 24
+Assault Suit
+### 25
+Robe
+### 26
+Dragon Scale
+### 27
+Mirage Robe 
+### 28
+Amulet
+### 29
+Cross 
+### 30
+Necklace
+### 31
+Speed Boots 
+### 32
+Crown 
+### 33
+Gleipnir
+### 34
+Rune Stone
+### 35
+Not Equipped
+### 36
+Unchanged 
+### 37
+A small, traveler's knife used
+### 38
+mostly for self-defense.
+### 39
+AT+1
+### 40
+A giant hammer with one side of 
+### 41
+its head curved.
+### 42
+AT+2
+### 43
+A long, heavy, two-handed sword.
+### 44
+### 45
+AT+4
+### 46
+A staff that focuses the magical
+### 47
+powers of its wielder.
+### 48
+Magic Range+3  Magic Damage+1 
+### 49
+A flaming lance infused with the
+### 50
+power of the Dragon Knights.
+### 51
+AT+6
+### 52
+A great axe, smeared in blood,
+### 53
+bearing an ancient curse. 
+### 54
+AT+8  DF-3
+### 55
+A magical sword said to have
+### 56
+been wielded by a dragon slayer.
+### 57
+AT+7
+### 58
+The legendary holy blade forged 
+### 59
+by King Sieghart of Elthlead. 
+### 60
+AT+3  DF+1
+### 61
+Legendary blade blessed with the
+### 62
+holy power of Lushiris. 
+### 63
+AT+9  DF+2  A+3  D+1
+### 64
+Body building gear for REAL men.
+### 65
+Is it enchanted...? 
+### 66
+AT+1  MV-1
+### 67
+Old sword with a Pegasus and
+### 68
+star on its hilt. Boosts EXP. 
+### 69
+AT-4  DF-3  A-2 
+### 70
+A sparkling crystal with a magic
+### 71
+stone sealed inside.
+### 72
+MP*2  Magic Range+3 
+### 73
+A holy rod, the key to releasing
+### 74
+Langrisser's powers. Magic
+### 75
+ability up
+### 76
+A holy rod, the key to releasing
+### 77
+Langrisser's powers. Magic
+### 78
+ability up
+### 79
+A dark rod, the key to releasing
+### 80
+Alhazad's powers. Magic ability 
+### 81
+up
+### 82
+A bow made of the finest yew. 
+### 83
+### 84
+AT+2  MV-2
+### 85
+A powerful, mechanical crossbow.
+### 86
+### 87
+AT-4  MV-2  Range Up 1-6
+### 88
+A blade of darkness bearing the 
+### 89
+power of Chaos, god of darkness.
+### 90
+AT+10  DF+2  A+3  D+1 
+### 91
+A blade of darkness bearing the 
+### 92
+power of Chaos, god of darkness.
+### 93
+AT+12  DF+1  A+3  D+1 
+### 94
+Shield with images of ancient 
+### 95
+gods. Is it enchanted...? 
+### 96
+DF+3  D+1 
+### 97
+A wooden shield reinforced by 
+### 98
+strong, iron bars.
+### 99
+DF+1
+### 100
+A large, heavy shield reinforced
+### 101
+with iron bars. 
+### 102
+DF+2
+### 103
+An armor made of metal rings
+### 104
+woven together into long chains.
+### 105
+DF+3
+### 106
+Very heavy, durable plates to 
+### 107
+cover the torso of the body.
+### 108
+DF+4
+### 109
+It's said to have fallen from 
+### 110
+the sky. Was it shaped by man?
+### 111
+A+10  D+10
+### 112
+Durable clothing made from a
+### 113
+very thick fabric.
+### 114
+DF+1  MDF+10
+### 115
+A light but strong armor made 
+### 116
+from dragon scales. 
+### 117
+DF+4
+### 118
+A mystic robe enhanced by a 
+### 119
+mysterious power. 
+### 120
+DF+2  MDF+20
+### 121
+A mysterious talisman containing
+### 122
+the power of mother nature. 
+### 123
+MDF+15 (includes troops)
+### 124
+A gleaming cross blessed by the 
+### 125
+prayer of a saint.
+### 126
+D+2  MDF+20 
+### 127
+A necklace made with a magical
+### 128
+stone.
+### 129
+Command Range+2  D+3
+### 130
+Boots that enable their wearer
+### 131
+to run like the wind. 
+### 132
+MV+2 (includes troops)
+### 133
+A beautiful crown with
+### 134
+mysterious powers.
+### 135
+A+3  D+2  Command Range+2 
+### 136
+Chain that caught the dark wolf 
+### 137
+Fenrir. Is it enchanted...? 
+### 138
+DF+1
+### 139
+An ancient stone with a 
+### 140
+mysterious inscription. "At 
+### 141
+level ten, the wearer will..."
+### 142
+### 143

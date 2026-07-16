@@ -1,0 +1,236 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Could these be the ruins of 
+Velzeria...?
+### 1
+Oh, you're here at last. I
+was getting tired of waiting
+for you.
+### 2
+Step aside, or I'll cut you 
+down! 
+### 3
+A charming idea, but no. I'm
+afraid I must refuse. 
+<page>
+You'll find I'm not the same
+man as the one you faced
+before. 
+<page>
+Well, now I'll show you the 
+new power granted to me by
+my master Nicolis!
+### 4
+Out of my way, unless you've
+a mind to die!
+### 5
+A charming idea, but no. I'm
+afraid I must refuse. 
+<page>
+You'll find I'm not the same
+man as the one you faced
+before. 
+<page>
+Well, now I'll show you the 
+new power granted to me by
+my master Nicolis!
+### 6
+Great Neptune?! 
+### 7
+What?!
+### 8
+I call upon thee, O, eternal
+spirit of the Earth.
+<page>
+Take this life I bestow and 
+act now as my own flesh and 
+blood!
+<page>
+Gordith, Zarath, Momoch!
+### 9
+What?! The pillars... 
+They've been transformed
+into giants!
+### 10
+What is that...? The
+pillars, the pillars are
+shifting into giants! 
+### 11
+Everyone, listen up!
+<page>
+Those things are golems!
+### 12
+Keep your guard up! 
+<page>
+Those are Golems! 
+### 13
+I won't lose! 
+### 14
+HYA HYA HYA HYA...
+<page>
+Oh, how I have enjoyed this.
+### 15
+Everyone, I'm sorry...
+### 16
+Har! That scurvy dog! 
+<page>
+Ignore the heaps of stone!
+It be Nagya we're after!
+### 17
+I won't let you stop me!
+### 18
+I... I can't go on... 
+### 19
+You bastard!
+### 20
+Damn! 
+### 21
+Iyaaa!
+### 22
+Lord Ledin, I'm sorry...
+### 23
+Gangway!
+### 24
+Arrr! 
+<page>
+I've been caught with me
+boots off...
+### 25
+Can you withstand the blaze 
+of my fighting spirit?
+### 26
+Ahhh... 
+### 27
+Prepare to die! 
+### 28
+Kuh!
+### 29
+I will not allow you to 
+treat this world as your
+plaything!
+### 30
+I let my guard down...
+### 31
+Try to dodge my blade!
+### 32
+Nagya!
+<page>
+You and your demon filth
+have taken too many people I
+cared about.
+<page>
+Your life is nothing but
+evil! 
+### 33
+W-Wait! Spare me! 
+<page>
+I'll give you 
+anything---gold,
+power---hell, I'll find you 
+<page>
+any beautiful women you 
+want! 
+### 34
+Die, you piece of filth!
+### 35
+Tch!
+### 36
+GYOGYOOO! 
+### 37
+GYOGYOOO! 
+### 38
+GYSHEEEE! 
+### 39
+GUEEEE! 
+### 40
+GUEEEE! 
+### 41
+Well, I suppose it is about 
+time you put them out of
+their misery. 
+### 42
+Yes sir!
+### 43
+Let's go! 
+### 44
+Heh heh heh...
+<page>
+DIE!
+### 45
+Wh-What?! 
+### 46
+Is this it...?
+### 47
+I'll take your filthy lives!
+### 48
+Ugahhhh!
+### 49
+Now, my dear adorable 
+golems蜆
+<page>
+Trample those nuisances!
+### 50
+Gaaah!
+<page>
+What are you doing, you 
+worthless heaps of rubble?! 
+Flatten them! Now!
+### 51
+Rot in hell!
+### 52
+Eeeeek! 
+<page>
+No... help me! I... don't...
+want... ...... to die...
+### 53
+......
+### 54
+Eeeeek! 
+<page>
+No... help me! I... don't...
+want... ...... to die...
+### 55
+How foolish...
+### 56
+Lord Ledin! 
+<page>
+A massive war party of
+enemies is approaching! 
+### 57
+Your Highness!
+<page>
+Enemy reinforcements are
+approaching from the rear!
+### 58
+What?!
+<page>
+They must be getting
+desperate. Everyone, we have
+to move! Now! 
+### 59
+Ledin. Go.
+<page>
+I'll hold them off. 
+### 60
+Lance!
+<page>
+You can't! Even for yo盞
+this is suicide!
+### 61
+I'll be fine, Narm. You 
+needn't worry.
+### 62
+... Please. You have to come
+back... to me.
+### 63
+That's enough. You lot need 
+to get moving!
+<page>
+Everyone! Don't get 
+yourselves killed!
+### 64
+Lance, don't you die either.
+### 65
+Farewell! 
+### 66

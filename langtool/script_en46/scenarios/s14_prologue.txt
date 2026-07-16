@@ -1,0 +1,27 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-14 {03}
+{04:83}Wolf Pac毳
+<page>
+After rescuing Lance from 
+the curse of stone, he
+agreed to help Ledin to 
+reseal the evil. The town 
+they now approach has become
+the victim of a predatory 
+<page>
+pack of werewolves. The pack
+seems to be commanded by a
+man controlling an evil 
+aura. Their new battle has
+already begun...
+<page>
+Winning Conditions
+殃Defeat of all enemies 
+<page>
+Losing Conditions 
+殃Death of Ledin
+殃Death of all NPCs 
+<page>
+

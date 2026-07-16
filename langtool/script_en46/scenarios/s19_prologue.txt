@@ -1,0 +1,28 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-19 {03}
+{04:83}{05}The 
+Underground 
+Sanctuary {05}」
+<page>
+To allow everyone to
+continue their assault, 
+Lance stayed behind, alone, 
+to curb the enemy's attack. 
+Vowing not to waste his 
+sacrifice, Ledin rushed 
+<page>
+onward to the underground 
+sanctuary. However, the 
+agent of evil, Nicolis, had 
+already surrounded the area 
+and was awaiting them.
+<page>
+Winning Conditions
+殃Defeat of Nicolis 
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

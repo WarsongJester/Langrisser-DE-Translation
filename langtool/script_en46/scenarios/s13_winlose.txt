@@ -1,0 +1,16 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{04:1C}
+### 1
+{04:1D}
+### 2
+{05}・{02}dies
+### 3
+{04:0D}
+### 4
+### 5
+### 6
+{05}・All allies petrified
+### 7
+### 8
+### 9

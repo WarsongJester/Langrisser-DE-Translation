@@ -1,0 +1,41 @@
+# UI strings. Keep lines short (<=16 chars is always safe). Keep tags as-is.
+### 0
+### 1
+To Salrath
+### 2
+The Raid
+### 3
+Forest of the Dead
+### 4
+Imperial Guard
+### 5
+Siege of Baldea Castle
+### 6
+Hero of the Fort
+### 7
+Pursuit 
+### 8
+The Wahl Rapids 
+### 9
+Castle on the Lake
+### 10
+Dalsis Castle 
+### 11
+Twin Castles
+### 12
+Town of Statues 
+### 13
+Wolf Pack 
+### 14
+Cry of the Dark Dragon
+### 15
+In the Darkness 
+### 16
+Velzeria, the Forbidden Land
+### 17
+Among the Ruins 
+### 18
+Underground Temple
+### 19
+Seal of Darkness
+### 20

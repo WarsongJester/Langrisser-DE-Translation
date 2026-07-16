@@ -1,0 +1,253 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Your Highness, we have a
+serious problem!
+<page>
+An enormous dragon is 
+heading right at us!
+### 1
+We can't allow it to reach
+the town! Evacuate the
+citizens, quickly!
+### 2
+It's foolish for us to fight
+a dragon by ourselves.
+### 3
+Lord Ledin. 
+### 4
+What is it, Father? 
+### 5
+There's an old yarn 'bout a 
+great fire spirit slumbering
+<page>
+in the mountains north-west 
+of here.
+<page>
+With its help, we may stand 
+a fighting chance against 
+that blasted dragon.
+### 6
+I see... Then we must try.
+### 7
+The dragon has crossed the
+shoreline!
+### 8
+Damn! Can we really not stop
+it?!
+### 9
+The dragon is heading right 
+for the town! 
+<page>
+We have to find a way to
+stop it!
+### 10
+I won't lose! 
+### 11
+Is this the end...? 
+### 12
+Take this, you damn monster!
+### 13
+Impressive... They were 
+pretty tough, like we 
+thought...
+### 14
+HRAAAGH!
+### 15
+Damn! 
+<page>
+It's all up to you now! 
+### 16
+I'll try my hardest too!
+### 17
+Kyaa! 
+### 18
+Ho, me hearties! This be
+more fun than a barrel of 
+grog! 
+### 19
+Arrr... me bones be weary!
+<page>
+I be forced to shove off... 
+### 20
+Your assault ends here! 
+### 21
+Ah... 
+### 22
+Prepare to meet your end! 
+### 23
+Kuuu....
+### 24
+To battle!
+### 25
+Curses! 
+### 26
+You're not getting away from
+me! 
+### 27
+It seems... ... I am
+beaten... 
+### 28
+You think you can do as you 
+please in this village?!
+### 29
+Damn it! I'm surrounded!
+### 30
+Muu... how regrettable... 
+### 31
+You godless fool! 
+### 32
+Heh... reckon my time's up. 
+<page>
+Seems the Goddess is finally
+callin' my number...
+### 33
+Kyaaa!
+<page>
+Monsters!!
+### 34
+Kyaaa!
+<page>
+Mommy!
+### 35
+Ah! The fire giant is 
+moving! 
+### 36
+Ah! The flame giant is
+moving! 
+### 37
+Ah! The flame giant is
+moving! 
+### 38
+KISHAAAA! 
+### 39
+Come, take your stand.
+<page>
+Face the Ever-Burning and 
+see--- you are but a
+<page>
+flickering flame before the 
+fury of my inferno! 
+### 40
+Be utterly consumed, and
+crumble into ash! 
+### 41
+My flame flickers low...
+<page>
+My time here is at its end, 
+and I now return unto the 
+spirit realm. 
+### 42
+GUWAAAA!
+### 43
+GIEEEE! 
+### 44
+GIEEEE! 
+### 45
+GUWAAAA!
+### 46
+Reduce this city to ash! Let
+not a single soul escape the
+inferno!
+<page>
+HYA HYA HYA HYA!! 
+### 47
+KISHAAAA! 
+### 48
+Twice now you have
+humiliated me.
+<page>
+I won't forget about this!
+### 49
+O High King of the Eternal
+Flame! He who burns red as
+the sun!
+<page>
+Give ear unto my cry, O 
+Spirit, and come quickly to 
+our aid!
+### 50
+Speak, little spark---
+<page>
+Who is it that rouses the 
+Ever-Burning from his rest? 
+### 51
+I am the prince of Baldea,
+Ledin.
+<page>
+This town is being attacked 
+by a great dragon.
+<page>
+We need your help to save 
+them! 
+### 52
+Baldea...?
+<page>
+Then you are of the seed of 
+Elthlead... 
+<page>
+Very well---I shall join my 
+flame to your cause.
+### 53
+The dragon is escaping! 
+### 54
+The beast is fleeing! 
+### 55
+This is our chance! 
+<page>
+Now that it's weakened, we
+can pursue it and end this
+for good! 
+### 56
+Sir!
+### 57
+By your command!
+### 58
+Highness, take this.
+### 59
+Obtained a Rune Stone!
+### 60
+But to think Nagya would
+appear... 
+<page>
+Is it possible that he was
+the one controlling the 
+monsters? 
+### 61
+I have reason to believe
+that is the case
+<page>
+Monsters rarely strike with 
+such coordination.
+### 62
+That may be so. 
+<page>
+Normally, monsters would
+never attack people in such 
+an organized manner.
+### 63
+Are the monsters also in
+response to the darkness...?
+<page>
+Oh, by the way, Jessica,
+what did the spirit mean by 
+'Elthlead'? 
+### 64
+That's what the kingdom of
+Baldea was called in ancient
+times.
+### 65
+I see...
+### 66
+So, who will join us in 
+stopping the dragon?
+### 67
+The town... 
+<page>
+The town is burning...
+### 68
+GARUUU! 
+### 69
+WOOOON! 
+### 70
+### 71

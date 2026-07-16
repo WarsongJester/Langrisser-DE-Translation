@@ -1,0 +1,267 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+So this is the Forest of
+Death... It's denser than I 
+imagined. 
+### 1
+Prince, this forest is
+dangerous. We need to cross 
+it as soon as possible. 
+### 2
+I guess so. 
+<page>
+But have you noticed? 
+Something seems odd...
+<page>
+Like we're being watched. 
+### 3
+We're in trouble! 
+<page>
+We've been surrounded by
+monsters! 
+### 4
+What?! Since when do
+monsters move in organized
+formations?!
+### 5
+They're coming! 
+<page>
+Look out! 
+### 6
+Physical attacks won't work!
+They don't hurt these 
+creatures!
+### 7
+Don't let your troops spread
+out! Stay close together! 
+### 8
+These things are weak 
+against fire! 
+<page>
+Men, give 'em a proper
+roast! Burn 'em out!
+### 9
+Lord Ledin! 
+<page>
+We're here to help you! 
+### 10
+Why did you follow us here?!
+### 11
+The monsters are trying to
+escape! 
+### 12
+We're saved. But why did the
+monsters... 
+### 13
+Lord Ledin. 
+<page>
+It's safe now!
+### 14
+Thank you, if it weren't for
+your help, I dare not think 
+<page>
+what could have become of 
+us. 
+### 15
+I talked with Thorn about 
+following you.
+<page>
+Hawking was worried about 
+you crossing the forest 
+<page>
+alone, so he asked us to
+help you. 
+### 16
+I am again in his debt. 
+### 17
+Lord Ledin. 
+<page>
+In thanks for protecting
+them from the thieves, the
+<page>
+people of Salrath wanted you
+to have this Cross. 
+### 18
+Um... Ledin...
+<page>
+I really want to be able to 
+fight alongside you in this 
+battle. 
+### 19
+You can't, Chris, it's too
+dangerous!
+### 20
+Please! 
+<page>
+I... ummm... please.
+<page>
+I promise I won't get in
+your way... 
+### 21
+... I see...
+<page>
+... all right then, Chris.
+<page>
+From now on, I'll be glad to
+have you with us. 
+### 22
+Thank you!
+### 23
+Obtained a Devil Axe! 
+### 24
+Obtained a Chain Mail!
+### 25
+What's going on?! 
+<page>
+Ordinary monsters shouldn't 
+have been able to plan an 
+ambush like this...!
+### 26
+After making it so close to 
+Baldea, can I really be 
+finished in such a place... 
+### 27
+Nrgh... 
+### 28
+I'm severely injured... 
+<page>
+Prince, I must retreat for
+now.
+### 29
+I'm not dying in this creepy
+forest! 
+### 30
+I can't go on. The rest is
+up to you!
+### 31
+Let's roast these monsters! 
+### 32
+Yeah! 
+### 33
+GRAAAH! 
+<page>
+You annoying pests! 
+### 34
+We found their weakness, but
+we still couldn't do
+anything? 
+### 35
+Lord Ledin! 
+<page>
+Please leave the Gels to us!
+### 36
+I'm sorry Chris...
+<page>
+Everyone, reinforcements are
+here! Hold strong!
+### 37
+Eww! This is so disgusting! 
+They're all slimy!
+<page>
+And they're coming this 
+way!!!
+### 38
+Eeeeeew! They're so sticky! 
+<page>
+This feels gross! 
+### 39
+Chris, that's enough! 
+<page>
+Leave the rest to me! 
+### 40
+Okay! 
+### 41
+BSHOOOOO! 
+### 42
+BSHOOOOO! 
+### 43
+BSHOOOOO! 
+### 44
+BSHOOOOO! 
+### 45
+BSHOOOOO! 
+### 46
+That's the last of those
+monsters! 
+<page>
+Let's push on to Baldea 
+Castle as quickly as
+possible! 
+### 47
+All the monsters are beaten!
+<page>
+Let's head on to Baldea 
+castle as fast as possible! 
+### 48
+All right!
+<page>
+Let's press on and Digos's
+forces and retake the 
+castle! 
+<page>
+But this was a hard fight.
+<page>
+You two came in the nick of 
+time. 
+### 49
+I only did as ordered.
+<page>
+Lord Hawking was worried
+about you crossing the
+forest alone. 
+<page>
+By his command, I've come to
+join your forces! 
+### 50
+Prince! 
+### 51
+Lord Ledin! 
+<page>
+You're not injured, are you?
+### 52
+Lord Hawking was worried
+about you crossing the
+forest alone. 
+<page>
+By his command, I've come to
+join your forces! 
+### 53
+I am again in his debt. 
+### 54
+Lord Ledin. 
+<page>
+In thanks for protecting
+them from the thieves, the
+<page>
+people of Salrath wanted you
+to have this cross. 
+### 55
+Obtained a Cross! 
+### 56
+Um... Ledin...
+<page>
+I really want to be able to 
+fight alongside you in this 
+battle. 
+### 57
+You can't, Chris, it's too
+dangerous!
+### 58
+Please! 
+<page>
+I... ummm... please.
+<page>
+I promise I won't get in
+your way... 
+### 59
+... I see...
+<page>
+... all right then, Chris.
+<page>
+From now on, I'll be glad to
+have you with us. 
+### 60
+Thank you!
+### 61
+### 62

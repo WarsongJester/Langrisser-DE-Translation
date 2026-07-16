@@ -1,0 +1,26 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-04 {03}
+{04:83}{05}The Forest
+of Death{05}」
+<page>
+After driving out the 
+bandits, Narm arrived 
+bearing news of Baldea's
+fall. To return to Baldea 
+castle, Ledin decided to
+cross the Forest of Death,
+<page>
+inhabited by Gels and 
+Ghosts. 
+<page>
+Winning Conditions
+殃Ledin survives for 16 
+turns 
+殃Defeat of all enemies 
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

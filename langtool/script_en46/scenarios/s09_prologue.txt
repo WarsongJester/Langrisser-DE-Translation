@@ -1,0 +1,27 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-09 {03}
+{04:83}The Warl's
+Rapids殱
+<page>
+To thwart Ledin's strike, 
+the enemy took a defensive
+position on the Warl which
+utilized its fast currents. 
+Since Langrisser was taken, 
+a mysterious monster has
+<page>
+appeared. Ledin fights on 
+undeterred, determined to 
+break through.
+<page>
+Winning Conditions
+殃Ledin reaches the top of
+the map 
+殃Total defeat of enemies 
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

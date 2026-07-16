@@ -1,0 +1,225 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+So this is Baldea Castle! 
+### 1
+Volkoff, I wish you could 
+have seen it once more... 
+### 2
+Your Highness...
+### 3
+All right!
+<page>
+Let's go, I won't quit now! 
+### 4
+The enemy is on the move! 
+### 5
+So, they've returned to die.
+As if a few pests could 
+defeat me.
+<page>
+What fools蜆counterattack 
+and Cut them down where they
+stand!
+### 6
+Your will shall be carried
+out!
+### 7
+Father, Volkoff...
+<page>
+Please watch over us in this
+battle. 
+### 8
+I'll take back this castle! 
+### 9
+The castle where I once 
+lived has been reduced to a 
+<page>
+graveyard... Destiny is a 
+cruel thing.
+### 10
+I'll avenge the King and
+Volkoff!
+### 11
+This is it! I won't let you 
+have your way!
+### 12
+Uwah!!
+<page>
+Th-This is the end... 
+### 13
+Lady Narm, that's enough! 
+<page>
+Please retreat and leave the
+rest to me! 
+### 14
+I didn't come this far just 
+to run away!
+### 15
+Damn! 
+<page>
+These guys are REALLY good! 
+### 16
+Retreat! Leave the rest to
+me! 
+### 17
+This is Lord Ledin's
+castle... 
+<page>
+You can't stop us from
+taking it!
+### 18
+Take this!
+### 19
+Eeeek!
+### 20
+That's enough, Chris! You 
+need to retreat!
+<page>
+Back off right now! 
+### 21
+Gwaaa!
+### 22
+That's far enough!
+<page>
+As if soldiers of your
+caliber could ever hope to
+best the great General Xeld!
+<page>
+Hah hah hah hah haah! 
+### 23
+To think蜆I'd be beaten by
+whelps like you...
+<page>
+Most impressive... gwaa!
+L-Long live the Dalsis
+Empire! 
+### 24
+Search the castle!
+<page>
+We have to free everyone who
+was held captive! 
+### 25
+Shiver me timbers! If it
+isn't Ledin!
+### 26
+Taylor! You're safe!
+### 27
+Arrr... I've gone and 
+tarnished the good name of
+Baldea蜆I...
+<page>
+Sorry I be蜆
+### 28
+No, don't worry about it. 
+### 29
+Lord Ledin. 
+### 30
+Jessica!
+<page>
+I'm glad you're okay! 
+### 31
+I fear I must deliver some
+terrible news!
+<page>
+Langrisser was taken by 
+Kaiser Digos! 
+<page>
+That sword was used to seal 
+away an ancient evil. 
+<page>
+It grants its wielder 
+unlimited power, so it was
+hidden away.
+### 32
+This is bad...
+<page>
+Now that they have
+Langrisser, it's only a 
+matter of time until... 
+### 33
+Correct. The revival of evil
+is now inevitable.
+### 34
+Aye, then let's shove off!
+<page>
+We best be takin' Langrisser
+back and keepin' that cursed
+<page>
+evil locked away蜆or it's 
+bad waters ahead for us.
+### 35
+Does Digos know about this? 
+### 36
+I don't think so, but 
+possibly. 
+<page>
+Only the late king and I, 
+his Court Magician, should
+have known about this.
+### 37
+Arrr... this be the sort of 
+thing that puts a chill in
+the bones.
+<page>
+That "evil" power may be
+settin' its sights on 
+Langrisser as well. to
+<page>
+blazes before using 
+Langrisser Chris So then, 
+<page>
+the next question is how to 
+get it back?
+### 38
+We must depart for Dalsis 
+immediately.
+### 39
+Father, watch over us.
+<page>
+We'll protect the peace of
+this world for sure.
+### 40
+We've got trouble!
+<page>
+Dalsis troops have lain 
+siege to Anzel Fortress!
+### 41
+What?!
+<page>
+We have to head for Anzel 
+Fortress at once! 
+### 42
+Remnants of Baldea, prepare 
+yourselves! 
+### 43
+I won't let you lay one 
+finger on General Xeld! 
+### 44
+I won't forget this!
+<page>
+This injury can't keep me 
+out of battle for long! 
+### 45
+I won't surrender my life 
+here! 
+### 46
+I have no regrets...
+### 47
+Die!
+### 48
+Uwaaa!
+### 49
+General Xeld!!
+### 50
+Uwaaa!
+### 51
+Charge! 
+### 52
+General Xeld!!
+### 53
+There's no way I'll lose! 
+### 54
+General Xeld!!
+### 55
+### 56

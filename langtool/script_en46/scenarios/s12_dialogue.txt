@@ -1,0 +1,172 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Where are we...?
+### 1
+So you brats are the kids 
+from Baldea...
+### 2
+Where is Kaiser Digos?! 
+### 3
+How regrettable.
+<page>
+I almost feel bad for you 
+having come all the way 
+here. 
+<page>
+Because this is where your
+life will end.
+### 4
+Sink me! Be ye joking?! 
+<page>
+Gangway, 'cause I'm coming
+for ya! 
+### 5
+Don't expect any mercy this 
+time. 
+### 6
+Tch! You persistent bastard!
+### 7
+So you brats from Baldea are
+here at last. 
+<page>
+I'll humor you and enjoy
+this fight to its fullest!
+### 8
+Digos!
+<page>
+Stay right there! I will
+definitely take you down! 
+### 9
+Hmph! No matter, a brat's 
+power will never defeat me. 
+<page>
+HA HA HA HA!
+### 10
+This seems to be the limit
+of my strength... 
+### 11
+At last, I will avenge King 
+Illzach and Volkoff!
+### 12
+Ah! 
+### 13
+Lady Narm, please fall back!
+### 14
+Hey, you fool! You want a 
+taste of this?! 
+### 15
+Damn! My arm has had it!
+You'll have to handle the 
+rest! 
+### 16
+Wha---?!
+### 17
+Kyaaa!
+### 18
+Avast! Don't think I'll let 
+ya slip away! 
+### 19
+Blimey! 
+<page>
+I scarce believe I've been
+bested by such weaklings! 
+### 20
+Digos must pay the price for
+reviving evil!
+### 21
+Let's head straight for 
+Digos's room! 
+### 22
+Aaa!
+### 23
+I haven't come this far just
+to fail now!
+### 24
+Kuu!
+<page>
+Is this it... 
+### 25
+Have at you!
+### 26
+Gah!
+### 27
+I won't let you pass! 
+### 28
+For the glory of the Dalsis 
+Empire! 
+### 29
+You bastard! This is where
+you die!
+### 30
+I can't let you pass! I 
+can't... guh... GWAAAH! 
+### 31
+I'll kill anyone who
+threatens the Kaiser! 
+### 32
+Impossible... How can I...
+aaaugh! 
+### 33
+Digos!
+<page>
+I know you're in there! 
+<page>
+Return Langrisser to me!
+### 34
+Hoo... it's the little
+Baldean brat. 
+### 35
+Digos! Have you any idea
+what you've done?!
+### 36
+Feh! Nonsense!
+<page>
+Might makes right!
+<page>
+He who has power controls 
+the world!
+### 37
+Your wicked thoughts awaken 
+evil and will drive the 
+world into ruin!
+### 38
+Silence, boy! Once I crush
+you, the world is mine! 
+### 39
+I'll kill you all!
+### 40
+I should have killed you
+when I had the chance...
+<page>
+Kaiser Digos, please kill 
+him for me... 
+### 41
+I will avenge my
+apprentices!
+### 42
+Now, I think it's time for
+me to join everyone else... 
+<page>
+Wait for me...
+### 43
+DIE!
+### 44
+I... I never expected...
+<page>
+Gwaaa!
+### 45
+I... I never expected...
+<page>
+Gwaaa!
+### 46
+Making it this far is worthy
+of praise.
+<page>
+But you will never defeat 
+me! 
+### 47
+Obtained Langrisser!
+### 48
+Obtained the Masayan Sword! 
+### 49

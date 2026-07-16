@@ -1,0 +1,27 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-07 {03}
+{04:83}{05}Hero of the 
+Fortress{05}」
+<page>
+Baldea castle was finally 
+reclaimed. Though Jessica 
+and Taylor, who had been
+imprisoned, were freed, 
+Langrisser had been taken.
+There was little time to
+<page>
+celebrate though, as a
+soldier arrived bearing news
+that Anzel Fortress had 
+fallen under Dalsis attack. 
+<page>
+Winning Conditions
+殃Defeat of Bernoulli 
+<page>
+Losing Conditions 
+殃Death of Ledin
+殃Death of Albert 
+<page>
+

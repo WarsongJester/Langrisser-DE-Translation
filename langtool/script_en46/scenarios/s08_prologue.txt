@@ -1,0 +1,30 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-08 {03}
+{04:83}{05}Pursuit {05}」
+<page>
+Ledin succeeded at driving
+Lance from Anzel Fortress 
+and protecting Albert. After
+the battle, Albert chose to 
+join Ledin in his fight, and
+thus the entourage grew one 
+<page>
+man stronger. Commander 
+Zaldaff, of the Dalsis army,
+retreated to meet up with 
+their other forces. Seeing
+this as an opportunity, 
+Ledin began a hot pursuit of
+<page>
+the enemy.
+<page>
+Winning Conditions
+殃Defeat of Lord Zaldaff
+<page>
+Losing Conditions 
+殃Death of Ledin
+殃Escape of Lord Zaldaff
+<page>
+

@@ -1,0 +1,27 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-03 {03}
+{04:83}{05}Ambush! {05}」
+<page>
+In Salrath, Hawking was 
+briefed on what had occurred
+in Baldea as he and Ledin 
+rested in the inn. But the
+night's tranquility was 
+disrupted as the thieves
+<page>
+began an ambush. Chris awoke
+Ledin as the attack began.
+Rousing his old sword 
+master, the two set out to
+defend the town.
+<page>
+Winning Conditions
+殃Defeat of all enemies 
+<page>
+Losing Conditions 
+殃Death of Ledin
+殃Death of villagers
+<page>
+

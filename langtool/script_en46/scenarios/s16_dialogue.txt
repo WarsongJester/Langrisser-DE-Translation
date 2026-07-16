@@ -1,0 +1,242 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Tch! That damn dragon, it 
+must've escaped here in 
+quite a panic...
+### 1
+That dragon... Why did it 
+escape here?
+### 2
+I'm getting creeped out by
+this cave...
+### 3
+Stay sharp. We seem to have 
+entered the dragon's lair.
+### 4
+Maybe it's the beast's lair.
+Tread carefully.
+### 5
+Be that as it may, let's
+move out! 
+### 6
+Stay focused! The dragon
+remains a fearsome foe, but 
+we will slay it regardless! 
+### 7
+Used for males who Grabs
+Dragon slayer How cruel...
+<page>
+For the dragon to have
+killed someone like that... 
+<page>
+Hmm?! 
+<page>
+This must be the legendary
+Dragon Slayer!
+<page>
+The sword used by the 
+hero... 
+<page>
+Rest warrior, I'll take over
+your mission and see the
+<page>
+beast is slain once and for 
+all.
+### 8
+Used for females who Grabs
+Dragon slayer How cruel...
+<page>
+this looks like the 
+handiwork of a dragon.
+<page>
+!?
+<page>
+This must be the legendary
+Dragon Slayer!
+<page>
+The sword used by the 
+hero... 
+<page>
+Rest warrior, I'll take over
+your mission and see the
+<page>
+beast is slain once and for 
+all.
+### 9
+Obtained the Dragon Slayer
+### 10
+Obtained a Rune Stone!
+### 11
+Obtained a Rune Stone!
+### 12
+Obtained the Crown! 
+### 13
+We're breaking through! 
+### 14
+Damn...is it truly
+impossible to slay this 
+dragon? 
+### 15
+Let's go! 
+### 16
+To be done in this way... 
+### 17
+Bring it on!
+### 18
+Damn! My weapon has had it! 
+You'll have to handle the 
+rest. 
+### 19
+Yaaaa!
+### 20
+Lord Leeeedin!
+### 21
+CHRIS!
+<page>
+That's enough! Fall back! 
+### 22
+Gangway, swabs! 
+### 23
+Ku, I've failed...
+### 24
+Prepare yourself! 
+### 25
+It's useless... 
+### 26
+I won't let you get away! 
+### 27
+It seems I was careless...
+### 28
+Test your mettle against my 
+blade!
+### 29
+Forgive me, Highness... I 
+have reached my limit.
+### 30
+If you get surrounded, don't
+panic and flail your sword. 
+<page>
+A single strike that hits 
+its mark is better than 
+twenty frantic misses.
+### 31
+Heh... how foolish. 
+### 32
+How could I have been 
+defeated?!
+### 33
+GISHAAAA! 
+### 34
+KISHAAAA! 
+### 35
+It's defeated at last...
+### 36
+Used by whoever had the 
+Dragon Slayer The sword.... 
+<page>
+The Dragon Slayer...
+vanished...?
+### 37
+Used by whoever had the 
+Dragon Slayer Your Highness,
+what's going on...? 
+### 38
+Used by whoever had the 
+Dragon Slayer Your Highness,
+what's going on...? 
+### 39
+That sword was a
+manifestation of the hero's 
+will... 
+### 40
+I suspect that with the 
+dragon slain, the blade has 
+<page>
+lost its purpose... and 
+vanished. 
+### 41
+Perhaps with the dragon 
+defeated and its purpose
+<page>
+served, its existence came
+to an end...
+### 42
+How sad...
+### 43
+Regarding that slate we 
+recovered, it appears to be 
+<page>
+written in an ancient 
+script... 
+### 44
+At any rate, that slate we
+found before seems to be
+<page>
+written in an ancient 
+script... 
+### 45
+What is this?!
+<page>
+It looks like an ancient
+record of the Baldea
+Kingdom!
+<page>
+"When the sorcerer B竍er
+unleashed the powers of 
+<page>
+darkness, a shadow was cast 
+over the entire world..." 
+<page>
+"When this happened, King 
+Sieghart of Elthlead led an 
+<page>
+army of light to clash with 
+the army of darkness..."
+<page>
+"With Langrisser, the 
+darkness was returned to
+Velzeria from whence it 
+<page>
+came, to dwell forever in 
+nothingnes蛔" 
+### 46
+Velzeria... 
+<page>
+Be the heart of that evil 
+truly anchored in the 
+Forbidden Land? 
+### 47
+Velzeria... 
+<page>
+Could it be the source of 
+the evil we now face? 
+### 48
+Then, Your Highness!
+### 49
+Then, Your Highness!
+### 50
+To strike down the darkness 
+and restore the seal... 
+<page>
+This is our mission... the
+mission of Baldea!
+<page>
+With the full might of our
+army, we march to invade
+Velzeria! 
+### 51
+GYSHAAA!
+### 52
+GYAAA!
+### 53
+PUZUU!
+### 54
+BWOOON! 
+### 55
+GYAAA!
+### 56
+Damn you... 
+### 57
+BWOOON! 
+### 58

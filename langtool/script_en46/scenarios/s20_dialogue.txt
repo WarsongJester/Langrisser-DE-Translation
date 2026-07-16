@@ -1,0 +1,340 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+This is the deepest part of 
+the temple. 
+### 1
+Ahh, the pitiable mortals.
+It's quite impressive that
+you've made it this far.
+### 2
+竡ser!
+<page>
+After we destroy you, we'll 
+seal you so you can never be
+resurrected again!
+### 3
+Hmph! 
+<page>
+I was revived by the power
+of darkness.To one who has
+transcended humanity, feeble
+<page>
+mortals like you are but
+gnats.
+<page>
+Are you really foolish
+enough to fight me? Try as
+<page>
+you might, your fate lies in
+hell! 
+<page>
+HA HA HA HA!
+### 4
+Let's end this! All forces, 
+charge! 
+### 5
+Watch closely, for this is
+the day darkness shall once 
+again be sealed!
+### 6
+With that level of
+ability... I'm surprised
+<page>
+that you managed to make it 
+this far! 
+### 7
+Terrible... I was just one
+step short... 
+### 8
+I shall see this through to 
+the end!
+### 9
+To fall now, of all times...
+Forgive me... 
+<page>
+I am bested.
+### 10
+Conceited bastard! How dare 
+you turn your blade at me!
+### 11
+Damn... I'm finished. Win 
+this one for me!
+### 12
+Ah! 
+### 13
+Kyaaaah!
+<page>
+L-Ledin....!
+### 14
+Fall back! You're too 
+injured to continue this
+fight!
+<page>
+I can't see you die!
+### 15
+O-Okay! 
+### 16
+Think ye to escape me? Ha!
+Not so fast, my heartie!
+### 17
+Bilge! Not now! How can I be
+beaten by such
+landlubbers...! 
+<page>
+Damn! I'll not sink today.
+Retreat!
+### 18
+I won't let myself be 
+defeated here!
+### 19
+I did the best I could... 
+<page>
+Maybe it's time for me to 
+rest for a while...!
+### 20
+Your evil ambition ends 
+here! 
+### 21
+I can't go on... Everyone...
+I'm sorry!
+### 22
+Forward! Break their lines! 
+### 23
+It's useless... I must
+withdraw. 
+### 24
+I won't let you go any
+further!
+### 25
+I won't die!
+<page>
+I... won't... guh... guwaa! 
+### 26
+What fools! Do you think
+we'll ever allow you to live
+<page>
+if you defy the god of
+darkness? 
+### 27
+God of darkness! I offer you
+my life!
+### 28
+Prepare yourself! 
+### 29
+How could you beat me?! 
+<page>
+No matter. You will not 
+escape alive! 
+<page>
+HA HA HA HA HA... 
+### 30
+Don't get cocky!
+### 31
+Kuh... how could I be 
+beaten... 
+<page>
+Gwaaa!
+### 32
+Do you think to defeat me?! 
+### 33
+Even if you defeat me, your 
+destiny ends here...
+<page>
+Guyaa!
+### 34
+Your life is mine! Die!!! 
+### 35
+God of darkness!
+<page>
+I call on you to give these 
+people a hideous death! 
+### 36
+The power of darkness will
+be mine, and then, I will 
+become a god! 
+### 37
+Come, mortals! Savor my full
+power with your flesh!
+### 38
+Return to the darkness from 
+where you came, 竡ser!
+### 39
+Hah! You're too late. 
+<page>
+Now, the seal that bound the
+powers of darkness has
+already been broken!
+<page>
+FWA HA HA HA HA...
+### 40
+W-What?!
+<page>
+What's this vibration?
+### 41
+Impossible! 
+<page>
+I'm... I'm... Uwaaaaah! 
+### 42
+I am called Chaos.
+<page>
+The hour is come, and I 
+shall fulfill the purpose 
+ordained unto me. 
+### 43
+Th-This is the source of the
+powers of darkness?!
+### 44
+Th-This is darkness 
+incarnate?! 
+### 45
+I am a force created when 
+the foundations of the earth
+were laid.
+<page>
+Since time innumerable, my
+purpose has been to create
+<page>
+discord and conflict in the 
+world of man. 
+### 46
+What do you mean by 
+"discord"?
+### 47
+I stay the hand of
+stagnation: 
+<page>
+for without conflict, and 
+without war, yea, without 
+<page>
+strife, the world withers,
+and cannot grow.
+<page>
+I devote the earth to 
+destruction to ensure it may
+be born anew. 
+### 48
+I will not permit such a
+thing!
+### 49
+I won't let you do it!
+### 50
+Defiance of this world's
+laws shall not be permitted.
+<page>
+All that would hinder the 
+maintenance of chaos shall
+<page>
+be swept away into
+nothingness.
+### 51
+You think you can?! 
+<page>
+Demon! I'll seal you once 
+again with Langrisser!
+### 52
+O Descendants of Light, 
+wielders of Langrisser蜆
+<page>
+Come, put me to the test--- 
+See if it is possible to
+stay my hand. 
+<page>
+Do you think you have the 
+power to stop me? I doubt 
+it. 
+### 53
+You shall be destroyed. 
+### 54
+You're finished!
+<page>
+Disappear for eternity, 
+Chaos!
+### 55
+From everlasting to 
+everlasting, I am. There is 
+<page>
+no end to me; I am
+inevitable. 
+### 56
+What d'ye say?! 
+### 57
+This is but one of the times
+I have manifested in this 
+world.
+<page>
+From times more ancient than
+memory, I have existed to 
+<page>
+guide the chaos of this 
+world.
+### 58
+Then... what have we been 
+fighting this whole time?!
+<page>
+Creation itsel淮?!
+### 59
+No. Even if that is true, we
+will not submit to chaos. 
+<page>
+Only order can lead to
+peace.
+### 60
+True. Order is the opposing 
+force of this world, and it 
+brings stability. 
+<page>
+Yet when all is made stable 
+stagnation begins.
+<page>
+It stifles all progress. It 
+cannot create nor birth.
+### 61
+So you are saying chaos is a
+necessary element of
+creation? 
+### 62
+That is so. 
+<page>
+Yet in his folly, man abuses
+the power of chaos for his
+selfish desires.
+### 63
+We're different than that!
+### 64
+Hear me.
+<page>
+Among all the creatures,
+only man is granted the 
+<page>
+powers of order and chaos 
+alike.
+<page>
+Order is reflected by the 
+light and chaos by the dark.
+### 65
+Are you... really a god?
+### 66
+My daughter. The answer to
+that question lies within 
+your heart. 
+<page>
+Should the world lean toward
+order or chaos, and the 
+<page>
+balance be broken---then
+yes.
+<page>
+I shall manifest in this
+realm once more as a god. 
+<page>
+For now, the scales are set 
+in your favor.
+<page>
+I return once more to my
+slumber.
+<page>
+Farewell... Descendants of
+Light.
+### 67
+### 68

@@ -1,0 +1,23 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-10 {03}
+{04:83}{05}The Castle
+on the Lake {05}」
+<page>
+Continuing their march, the 
+Baldean troops surrounded 
+the castle on lake Valk,
+defended by Kirchner. If
+they can breach these walls,
+Castle Dalsis will be in
+<page>
+sight.
+<page>
+Winning Conditions
+殃Defeat of Kirchner
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

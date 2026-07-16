@@ -1,0 +1,29 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-05 {03}
+{04:83}The Imperial
+Guards殱
+<page>
+Chris and Thorn came from 
+Salrath to help Ledin cross 
+the Forest of Death. But a
+detachment of the imperial
+knights were waiting for
+them just beyond the forest.
+<page>
+The captain of the Dalsis 
+Imperial Guards, Lance
+Kalxath, the Black Knight,
+had been expecting them. The
+battle of two fated rivals
+has begun.
+<page>
+Winning Conditions
+殃Defeat of the Black 
+Knight, Lance 
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

@@ -1,0 +1,295 @@
+# UI strings. Keep lines short (<=16 chars is always safe). Keep tags as-is.
+### 0
+Load which save?
+### 1
+Save your game? 
+### 2
+Yes 
+### 3
+No
+### 4
+You still want it?
+### 5
+Inventory is full.
+### 6
+Throw something out.
+### 7
+Which item to discard?
+### 8
+{02} will be thrown out.
+### 9
+{02} will be thrown out.
+### 10
+Kills 
+### 11
+Retreats
+### 12
+is asleep.
+### 13
+Can't summon. 
+### 14
+{02}
+### 15
+### 16
+Magic Arrow 
+### 17
+Blast 
+### 18
+Thunder 
+### 19
+Fireball
+### 20
+Meteor
+### 21
+Blizzard
+### 22
+Tornado 
+### 23
+Turn Undead 
+### 24
+Earthquake
+### 25
+Heal 1
+### 26
+Heal 2
+### 27
+Force Heal 1
+### 28
+Force Heal 2
+### 29
+Sleep 
+### 30
+Mute
+### 31
+Protection 1
+### 32
+Protection 2
+### 33
+Attack 1
+### 34
+Attack 2
+### 35
+Zone
+### 36
+Teleport
+### 37
+Resist
+### 38
+Charm 
+### 39
+Quick 
+### 40
+Again 
+### 41
+Decrease
+### 42
+Stone 
+### 43
+Valkyrie
+### 44
+White Dragon
+### 45
+Salamander
+### 46
+Iron Golem
+### 47
+Demon Lord
+### 48
+Not enough MP!
+### 49
+{02} will be thrown out.
+### 50
+{02} equipped the {02}! 
+### 51
+was learned.
+### 52
+{02}
+### 53
+Level up! 
+### 54
+AT
+### 55
+DF
+### 56
+MP
+### 57
++1
+### 58
++2
+### 59
++4
+### 60
+{02} can be hired.
+### 61
+May change class. 
+### 62
+Class Change
+### 63
+{02}  {02} unit.
+### 64
+Troops
+### 65
+Magic and Summon
+### 66
+{02} equipment
+### 67
+Weapon
+### 68
+Misc. 
+### 69
+Ally's
+### 70
+Movement ended for
+### 71
+Enemy's 
+### 72
+NPC's 
+### 73
+Scenario has a forced arrangement 
+### 74
+
+will be my class. 
+Is this right?
+### 75
+Item List 
+### 76
+Sell List 
+### 77
+{02} can't be equipped. 
+### 78
+Gold
+### 79
+Not enough money. 
+### 80
+Inventory is full.
+### 81
+Items Carried 
+### 82
+Cannot be equipped. 
+### 83
+No items to sell. 
+### 84
+{02} was purchased. 
+### 85
+{02} was sold.
+### 86
+{02} cannot equip this. 
+### 87
+The setup is not complete!
+### 88
+Saved.
+### 89
+forced arrangement. 
+### 90
+Ledin has not been placed.
+### 91
+{02} has mercenaries
+ but is unplaced. 
+### 92
+White Dragon
+### 93
+Salamander
+### 94
+Iron Golem
+### 95
+Demon Lord
+### 96
+Sleipnir
+### 97
+Fenrir
+### 98
+Aniki 
+### 99
+Enemy Aniki 
+### 100
+cannot use. 
+### 101
+Is this okay? 
+### 102
+Press any button. 
+### 103
+Soldier 
+### 104
+Monk
+### 105
+Spearman
+### 106
+Cavalry 
+### 107
+Dragoon 
+### 108
+Flier 
+### 109
+Bandit
+### 110
+Sailor
+### 111
+Gel 
+### 112
+Demon 
+### 113
+Monster 
+### 114
+Barbarian 
+### 115
+Magician
+### 116
+Ghost 
+### 117
+Undead  
+### 118
+Bowman
+### 119
+Ballista
+### 120
+Dragon
+### 121
+Scenario{03}
+{05}{05}{05}{05}{03}Turn
+### 122
+Total 
+{05}{05}{05}{05}{03}Turn
+### 123
+### 124
+### 125
+No save data found
+### 126
+Failed to save data 
+### 127
+### 128
+Failed to save data 
+### 129
+Failed to load data 
+### 130
+### 131
+### 132
+Standing by 
+### 133
+Healing 
+### 134
+Backup RAM not initialized
+<page>
+Please Format 
+### 135
+Which save slot?
+### 136
+Failed
+### 137
+Saving... 
+### 138
+Loading...
+### 139
+### 140
+Locked
+### 141
+Select  {03} to deployed
+### 142
+Contents of ram cart  {05}{05}{05}
+### 143
+### 144
+Ｘ１
+### 145
+Ｘ２
+### 146
+Ｘ３
+### 147

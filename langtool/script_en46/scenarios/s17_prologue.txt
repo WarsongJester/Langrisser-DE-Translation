@@ -1,0 +1,27 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-17 {03}
+{04:83}The 
+Forbidden 
+Land, 
+Velzeria殱
+<page>
+Thanks to the tablet, Ledin 
+learned of the dwelling of
+the prince of darkness. 
+History has begun to repeat 
+itself as descendants of
+light once again wield
+<page>
+Langrisser to face
+Velzeria... 
+<page>
+Winning Conditions
+殃Defeat of all enemies 
+except Boser
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

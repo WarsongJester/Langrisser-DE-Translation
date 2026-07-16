@@ -1,0 +1,267 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Your Highness, the situation
+is dire!
+<page>
+A pack of werewolves is 
+descending upon the town! 
+### 1
+Your Highness, it's a 
+disaster! 
+<page>
+The town is under siege by a
+horde of werewolves!
+### 2
+What?!
+<page>
+They need our help! 
+### 3
+FYA HA HA HA! 
+<page>
+I'm afraid I simply cannot
+allow that to happen, can I?
+Prince of Baldea... 
+### 4
+Who's there?! 
+### 5
+Oh ho---forgive me. How 
+dreadfully rude of me.
+<page>
+You may call me Nagya... I
+have a feeling we're going
+<page>
+to get to know each other 
+VERY well...
+### 6
+I don't care. I suggest you 
+get out of my way!
+### 7
+Ah, you see, that poses a 
+bit of a problem. 
+<page>
+It would make our holy god
+quite pleased to have these 
+<page>
+villagers as a sacrifice. 
+I'd hate to disappoint him. 
+### 8
+HYA HYA HYA!
+<page>
+It's the most elegant 
+solution. Go and slaughter
+<page>
+everyone! Kill them! Kill 
+all of them!
+### 9
+WAOOOON!
+### 10
+WAOOOON!
+### 11
+Damn! 
+<page>
+They have the town
+surrounded...!
+### 12
+Quickly, everyone!
+<page>
+Prioritize the safety of the
+villagers!
+### 13
+Aye aye!
+### 14
+I can't let you do as you 
+please! 
+### 15
+It's useless... 
+<page>
+At this rate the
+villagers...
+### 16
+Kyaaa!
+### 17
+Lady Narm!
+<page>
+Are you all right?! 
+### 18
+I must withdraw to tend my
+wounds. 
+<page>
+Take care of yourselves!
+### 19
+You're done!
+### 20
+Damn! 
+<page>
+My knee is shot! You'll have
+to handle it from here. 
+### 21
+Hurry, we have to save
+everyone! 
+### 22
+Kyaaa!
+### 23
+I be no soft-bellied
+landlubber, savvy?! 
+### 24
+Kuh, I've failed! 
+### 25
+Kuuu! 
+### 26
+It's useless... 
+### 27
+I won't let you have your 
+way!
+### 28
+Damn! 
+### 29
+Vile abomination! 
+### 30
+Blast!
+<page>
+Is this the end...? 
+### 31
+This is all because my
+kingdom stole Langrisser... 
+What have we done...? 
+<page>
+We must find a way to reseal
+this evil.
+### 32
+I won't let you escape with 
+your lives! 
+### 33
+Tch!
+<page>
+I've still got a long ways
+to go...
+### 34
+Kuu!
+### 35
+This.... this is it...
+<page>
+Everyone from Baldea... 
+<page>
+... the rest... is in your
+hands...
+### 36
+Kyaaaa! Please, help me!
+### 37
+All citizens! Take shelter
+in the center of town!
+<page>
+The monsters can't be 
+allowed further into the
+town! 
+### 38
+Kyaaa!
+### 39
+Killing one of these beasts 
+does nothing! 
+<page>
+There's just no end to them!
+### 40
+My luck has run out...
+### 41
+Wh- What?!
+<page>
+The villagers are being 
+massacred...
+<page>
+I don't have the strength to
+save them...
+### 42
+GUWAAAAA! 
+### 43
+GUWAAAAA! 
+### 44
+GUWAAAAA! 
+### 45
+GUWAAAAA! 
+### 46
+GUWAAAAA! 
+### 47
+GUWAAAAA! 
+### 48
+Allow me to enlighten you on
+the magnificence of our god!
+### 49
+Regrettably, today's
+festivities must come to an 
+end.
+<page>
+However, now that the Prince
+of Darkness, Lord 竡ser, has
+<page>
+returned... your defeat is
+all but a certainty!
+<page>
+Until our paths cross again,
+Descendants of Light. 
+### 50
+Kyaaa! Save me! 
+### 51
+Kyaaa!
+### 52
+It seems everyone is safe.
+### 53
+Thank you for saving us.
+### 54
+I deeply thank you. 
+<page>
+It was only by your help
+that everyone is alive. 
+### 55
+Think nothing of it. It was 
+simply our duty.
+### 56
+Prince Ledin, for your help,
+we'd like to give you our 
+town's secret treasure. 
+### 57
+Obtained the Crown! 
+### 58
+Thank you, I'm sure it will 
+aid us. 
+### 59
+It's something to remember
+our town's eternal gratitude
+by. 
+### 60
+Please, no need. Your 
+gratitude is enough for me. 
+### 61
+But Lord Ledin. 
+<page>
+Who exactly is B竍er? 
+### 62
+However, Lord Ledin.
+<page>
+What kind of a man is this
+竡ser?
+### 63
+I don't really know.
+<page>
+Jessica, do you know
+anything about him? 
+### 64
+I do. 
+<page>
+Long ago, there was a man by
+the name of 竡ser, who
+<page>
+attempted to revive his dark
+god, Chaos. 
+<page>
+Since Nagya called him the
+"Prince of Darkness," I fear
+they are the same man.
+### 65
+We know, at least, that evil
+has been awakened.
+<page>
+It seems our fight has
+become for the very 
+future... 
+### 66
+### 67

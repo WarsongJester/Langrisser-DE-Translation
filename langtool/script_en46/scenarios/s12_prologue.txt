@@ -1,0 +1,19 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-12 {03}
+{04:83}Twin Castl毬
+<page>
+Ledin and company broke into
+two groups as they entered
+Twin Castle, seeking the
+room where Digos is. Their
+last battle is at hand. 
+<page>
+Winning Conditions
+殃Defeat of Digos 
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

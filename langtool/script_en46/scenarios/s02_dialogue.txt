@@ -1,0 +1,258 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Father... 
+### 1
+My prince! I see the shadow 
+of a woman ahead of us! 
+### 2
+What?! Oh, it looks like
+she's a cleric. 
+### 3
+!?
+### 4
+Don't be frightened. We're
+just travelers. 
+### 5
+I'm sorry, you just scared
+me a little.
+### 6
+You have good reason to be
+cautious. It's widely known 
+<page>
+that this area is infested
+with bandits. 
+### 7
+My name is Chris, I'm 
+traveling on a pilgrimage. I
+was going to Salrath, but...
+### 8
+Is that so? My name is
+Ledin.
+<page>
+Please allow us to escort 
+you there.
+### 9
+Oh no. We couldn't possibly 
+burden you... 
+### 10
+It's no problem, Sister 
+Chris. We were on our way to
+Salrath as well.
+### 11
+My prince, this field is not
+as empty as it was a moment 
+ago...
+### 12
+Thieves!
+### 13
+Chris, the city is only a 
+little further! 
+<page>
+Run for it as fast as you 
+can!
+### 14
+Okay! 
+### 15
+Damn! 
+<page>
+The thieves are attacking 
+from the rear as well!
+### 16
+All right! Let's go!
+### 17
+KILL THEM ALL, SHIKA! 
+### 18
+JUST GIRL, LET OTHERS 
+ESCAPE! 
+### 19
+SHIKA!
+<page>
+I WANT MURDER THEM
+ALLLLLLLL! HE HE HE HE HE!
+### 20
+Duke Hawking, a group of
+pilgrims is being attacked
+just outside the city!
+### 21
+What? This is grave news
+indeed. We must not delay!
+<page>
+We must aid the pilgrims at 
+once! 
+### 22
+Sir!
+<page>
+Everyone, stay on my lead!
+Move out! 
+### 23
+Yeah! 
+### 24
+The city's finally in sight!
+<page>
+Don't stop running, Chris!
+### 25
+O-Okay! 
+### 26
+Take this!
+### 27
+I couldn't even defend
+myself... 
+### 28
+You need to stay with her if
+you're going to protect 
+Chris!
+### 29
+I understand. 
+### 30
+Here's ten years worth of 
+swordplay coming at you!
+### 31
+I lost...to bandit蛔 Perhaps
+the years are catching up to
+me... 
+### 32
+Aaah! 
+<page>
+Sir Ledin!
+### 33
+Chris!
+### 34
+Aaah! S-Sir Ledin!! 
+### 35
+I wasn't蜆strong enough.
+It's all my faul蟐
+### 36
+Hasten, Thorn! We must reach
+them before it is too late! 
+### 37
+Yes sir!
+### 38
+We'll clear the field of
+these rogues! 
+<page>
+Hold the line---they must 
+not breach our city gates!
+### 39
+It's no use... We must
+temporarily withdraw. 
+### 40
+I'll make you regret coming 
+here! 
+### 41
+Dammit! I'm leaving the rest
+to you! 
+### 42
+KILL! KILL! WE SACRIFICE
+THEM TO GODS! 
+<page>
+SHIKA SHIKA!
+### 43
+GODS, I ASK FOR YOUR POWER! 
+SHIKA!
+### 44
+SHIKA! SHIKA! MURDER! 
+### 45
+GODS, I ASK FOR YOUR POWER! 
+SHIKA!
+### 46
+KILL! MURDER! WE SACRIFICE
+THEM TO GODS! 
+<page>
+SHIKA!
+### 47
+SH... SHH... SHHH... SHIKA! 
+### 48
+SHIKA! SHIKA! KILL! 
+### 49
+SH... SHH... SHHH... GUH! 
+### 50
+KILL! KILL! WE SACRIFICE
+THEM TO GODS! 
+<page>
+SHIKA!
+### 51
+GODS, I ASK FOR YOUR
+STRENGTH! SHIKA!
+### 52
+DOH MOTOV STRONG! I KILL
+YOU!
+### 53
+THESE ONES TOUGH! WE KILL 
+WHEN NEXT MEET! 
+### 54
+Chris, are you all right? 
+### 55
+Yes, thank you, I'm Okay. 
+### 56
+Ummm... I know it's not 
+much, but thank you for 
+helping me. 
+<page>
+Please take this. 
+### 57
+Obtained a Large Shield!
+### 58
+Prince?!
+<page>
+If it isn't Prince Ledin! 
+### 59
+Prince?!
+<page>
+If it isn't Prince Ledin! 
+### 60
+Prince? 
+### 61
+Duke Hawking! 
+### 62
+It has been quite some time,
+Prince Ledin. 
+<page>
+Tell me, what brings you to 
+Salrath in such haste?
+### 63
+It has been quite some time,
+Prince Ledin. 
+<page>
+Tell me, what brings you to 
+Salrath in such haste?
+### 64
+Well to tell the truth, 
+Baldea was attacked by the
+Dalsis empire.
+### 65
+What?! Then... what of King 
+Illzach? Is my old friend 
+safe? 
+### 66
+What?! Then... what of King 
+Illzach? Is my old friend 
+safe? 
+### 67
+I don't know... 
+<page>
+When last I saw him he was
+engaged in battle.
+<page>
+I was sent to rally 
+reinforcements and return as
+soon as possible. 
+### 68
+I understand. Say no more. I
+shall muster my forces at 
+once! 
+<page>
+But for tonight, Prince, I
+insist you rest here. 
+### 69
+I understand. Say no more. I
+shall muster my forces at 
+once! 
+<page>
+But for tonight, Prince, I
+insist you rest here. 
+### 70
+Thank you, Duke Hawking. I
+appreciate your help. 
+### 71
+### 72

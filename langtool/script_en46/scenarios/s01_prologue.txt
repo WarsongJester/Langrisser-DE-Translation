@@ -1,0 +1,32 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-01 {03}
+{04:83}{05}Flight from 
+Baldea{05}」
+<page>
+Since ancient times, the
+holy sword, Langrisser, has 
+been said to give its 
+wielder unlimited power. To 
+obtain the sword, which lay 
+under the protection of the 
+<page>
+Baldea royal family, Kaiser 
+Digos of the Dalsis Empire
+encircled Baldea castle with
+several large platoons. The 
+magic of Digos' court 
+magician dyed the castle red
+<page>
+with blood. 
+<page>
+Winning Conditions
+殃Ledin reaches Narm
+殃Defeat of all enemies 
+<page>
+Losing Conditions 
+殃Death of Ledin
+殃Death of Narm 
+<page>
+

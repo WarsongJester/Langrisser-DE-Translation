@@ -1,0 +1,268 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+Lord Ledin! The enemy is
+trapped!
+### 1
+They'll be difficult to 
+catch if they try to escape 
+into the deep forest. 
+<page>
+We have to hurry after them!
+### 2
+Right.
+<page>
+Cut off the enemy commander!
+Surround them, then subdue
+them! 
+<page>
+Everyone, let's move out! 
+### 3
+That damn Bernoulli! He 
+couldn't take even one
+lously fort.
+<page>
+Thanks to him, we've gotta
+retreat without getting some
+action. 
+### 4
+Terrible news!
+<page>
+The enemy forces following
+us are closing in!
+### 5
+Damn it!!! If we're caught
+here we'll be completely
+wiped out!
+<page>
+Third and fourth units, 
+secure the retreat of our 
+main force! 
+### 6
+Yes sir!
+### 7
+Main forces, ready
+yourselves for a full 
+retreat on my signal! 
+<page>
+Once it's clear we're 
+getting out of here!
+### 8
+The enemy's movements have
+become frantic. Something is
+up! 
+### 9
+Bilge! Avast, me hearties,
+we've been spotted! 
+### 10
+All troops, RETREAT!!!
+### 11
+The enemy is fleeing into 
+the the forest to the 
+<page>
+north-west! Don't let them
+escape! 
+### 12
+Secure our allies' retreat! 
+### 13
+We'll take over from here!
+Continue your Retreat!
+### 14
+Thank you.
+<page>
+Everyone, we're almost to 
+the forest! We can't give 
+up! 
+### 15
+Enemy reinforcements have 
+arrived!
+### 16
+Lance?! 
+<page>
+Don't let it stop us! We
+must break through! 
+### 17
+Hurry! They're escaping!
+<page>
+Cut off their retreat with
+everything you've got!
+### 18
+Not a chance! You won't stop
+us no matter what!
+### 19
+Just a little further!
+<page>
+If we can just cross this 
+river, our escape is
+assured! Men, make haste! 
+### 20
+Yes sir!
+### 21
+This is bad!
+<page>
+If they cross the river, we 
+may lose their trail for
+good! 
+### 22
+Wa ha ha ha ha! 
+<page>
+Pursuing us like this is a
+waste! Why don't you just 
+give up?
+### 23
+Somehow we managed to carve 
+out a path for our escape...
+<page>
+All right! Withdraw at once!
+### 24
+Ledin! This time, the day is
+mine! Ha ha!
+<page>
+Farewell! 
+### 25
+Curse you, Lance... 
+<page>
+We were so close... 
+### 26
+Damn! We're letting them get
+away... 
+### 27
+Obtained the Masayan Sword! 
+### 28
+You're not getting away from
+us! 
+### 29
+You and the others, your
+lives will end here!
+### 30
+Lance, damn you...
+<page>
+We were so close蜆
+### 31
+I can't pursue them any 
+further...
+<page>
+Everyone... I'm sorry...! 
+### 32
+Have you realized yet what a
+fool you are to resist US?
+<page>
+Uwa ha ha ha ha ha haaa!
+### 33
+Your Highness! I believe in 
+you!
+### 34
+Guh... Not bad...!
+### 35
+You've got some nerve,
+turning your blade on me! 
+You'll regret it! 
+### 36
+Damn! My sword is trashed!
+<page>
+Take it from here!
+### 37
+Aaah! 
+### 38
+Kyaa! 
+### 39
+This corsair will never let 
+ye get away!
+### 40
+Arr! Well fought! 
+<page>
+Ye've beaten me, fair and 
+true! 
+### 41
+I won't let you escape!!
+### 42
+I can't go on any more. 
+<page>
+I have to retreat, for
+now...
+### 43
+These guys have almost made 
+it into the forest! 
+<page>
+We can't waste any more 
+time! Hit them hard and 
+fast! 
+### 44
+I must hold out...
+### 45
+...Guhh!
+### 46
+Impudent fools! 
+### 47
+Wh-Why?!
+<page>
+Guah! 
+### 48
+Damn it! I can't be defeated
+here! 
+### 49
+Guaah!
+### 50
+Nuuoooooo!
+### 51
+Persistent bastards!
+<page>
+I'll have my revenge yet! 
+### 52
+This shall be the last
+victory you ever see! 
+<page>
+Let's go, Laias!
+### 53
+Yes sir, captain! 
+### 54
+Feh! You move too slow! 
+### 55
+Damn! 
+### 56
+Curses! 
+<page>
+My steed is fallen...!
+### 57
+I won't be beaten here! 
+### 58
+Unh... my legs... 
+### 59
+Back off, Laias!
+### 60
+The Da.... ...Dalsis... 
+Empire... FOREVER!
+### 61
+We've been wiped out... 
+<page>
+Ledin, mark my words! The 
+day will come when I see you
+on your knees!
+<page>
+Prepare yourself, for when
+we next meet, I shall see 
+you fall. 
+### 62
+It seems like it's finally
+over... 
+### 63
+Prince, we've received word 
+from our troops in Baldea!
+<page>
+Preparations are complete 
+for the invasion of the 
+Dalsis Empire!
+### 64
+I see...
+<page>
+Digos... you'd best hold
+onto your head... while it's
+<page>
+still attached to your
+shoulders.
+<page>
+The day shall come when your
+death is realized, this I 
+swear!
+### 65
+### 66

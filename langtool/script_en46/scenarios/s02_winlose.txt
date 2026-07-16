@@ -1,0 +1,17 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{04:1C}
+### 1
+{04:1D}
+### 2
+{05}・{02}dies
+### 3
+{05}・Chris escapes to the
+### 4
+{05}{05}gate at the top-left
+### 5
+{04:0D}
+### 6
+{05}・Chris dies
+### 7
+### 8

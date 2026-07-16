@@ -1,0 +1,260 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+This river looks pretty big.
+Is there somewhere else we
+can cross?
+### 1
+The current is far too swift
+elsewhere, making a crossing
+impossible. 
+<page>
+This appears to be our best 
+spot for crossing the river.
+### 2
+Ho! The dogs be spread out
+across the other bank!
+<page>
+Blimey! They may have been
+expectin' us after all... 
+### 3
+It doesn't matter.
+<page>
+We're pushing through!
+### 4
+The enemy is moving!
+<page>
+It looks like we'll need to 
+break through them here!
+### 5
+Finally! Me bones have been 
+achin' to show ye a taste of
+the cold steel! 
+### 6
+There's no way you'll be
+able to cross the Warl at 
+this point. 
+### 7
+Heads up! The enemy's forces
+consist of naval units! 
+### 8
+Engaging them on the water
+would put us at a severe
+disadvantage. 
+### 9
+GYAGIIII! 
+### 10
+GISYAAAAA!
+### 11
+What the---what are those 
+monsters?! Are they with the
+Dalsis army?! 
+### 12
+What's happening?!
+### 13
+What!? What the hell are
+those things doing here?! 
+### 14
+Don't panic!
+<page>
+Maintain formation! We'll 
+just take them out along
+with the Baldean bastards!
+### 15
+Let's try to lure the 
+monsters onto the land. 
+<page>
+If we can pull it off, we'll
+have a tactical advantage!
+### 16
+True. That seems like it may
+be a less dangerous.
+### 17
+Lance?! 
+### 18
+Sigh... Long time no see, 
+Ledin.
+<page>
+I never thought I'd 
+encounter you while hunting 
+these monsters. 
+### 19
+Damn! 
+<page>
+What horrible timing! 
+### 20
+Don't let them escape!
+<page>
+Just ignore the monsters and
+keep after those guys!
+### 21
+Somehow we managed a
+victory.
+### 22
+But... what exactly were
+those monsters? 
+### 23
+But... what exactly were
+those monsters? 
+### 24
+Ay繚 they didn't look to be 
+sailin' under the Empire's
+flag. 
+### 25
+Ay繚 they didn't look to be 
+sailin' under the Empire's
+flag. 
+### 26
+Could it have been the power
+of darkness?! 
+### 27
+Could it have been the power
+of darkness?! 
+### 28
+Perhaps... I fear that may
+be. 
+### 29
+Perhaps... I fear that may
+be. 
+### 30
+Maybe those monsters were 
+after Langrisser... 
+### 31
+Maybe those monsters were 
+after Langrisser... 
+### 32
+If that's the case... then
+it's all more reason to 
+hurry!
+### 33
+Don't let up! 
+<page>
+Keep moving and break 
+through their line! 
+### 34
+Ugh...... 
+<page>
+Is this it......? 
+### 35
+Take this!
+### 36
+Aaah! 
+### 37
+Hah?! 
+### 38
+Damn! 
+<page>
+Is this it?!
+### 39
+Yah!
+### 40
+Aaah! 
+### 41
+Yo ho! Learn the terror of
+the dread Captain Taylor! 
+### 42
+Blast!
+<page>
+Ye caught me off-guard! 
+### 43
+Witness my blinding magic!
+### 44
+I will not go down! 
+### 45
+I'll carve us a path through
+these guys with sheer power 
+if need be! 
+### 46
+Not bad...
+### 47
+Lance is here to back us up!
+This is our chance! 
+<page>
+Counterattack and crush them
+all!
+### 48
+Understood! 
+### 49
+Touuu!
+### 50
+Gyaa! 
+### 51
+OW! P-P-Painful!!!
+### 52
+Curses! Do ye expect me to
+go down quietly?
+<page>
+Avast, I'll make ya dance 
+with ole' Jack Ketch! 
+### 53
+Playtime's over, mate!
+### 54
+L- Lady Celia...
+### 55
+Guess I'm gonna have to show
+you what real pain is!
+### 56
+This- This is impossible... 
+<page>
+Gwaaa!
+### 57
+Lord Xeld...
+<page>
+I, Celia, vow to avenge you!
+### 58
+This won't be like the last 
+time! 
+### 59
+I can't be defeated!
+### 60
+Lord Xeld...
+<page>
+I'll join you soon... 
+### 61
+GUGIIIII! 
+### 62
+GYOGYOOO! 
+### 63
+GYOGYOOO! 
+### 64
+I'll see to it you get
+what's coming to you! 
+<page>
+Prepare yourself! 
+### 65
+Do you really think you can 
+defeat me?! 
+### 66
+Ledin!
+<page>
+The time to conclude our
+duel is now!
+### 67
+That's just what I wanted to
+hear! 
+### 68
+Keh! Is defeating him really
+beyond my power...?!
+### 69
+Somehow we managed a
+victory.
+### 70
+But... what the hell were 
+those monsters? 
+### 71
+Ay繚 they didn't look to be 
+sailin' under the Empire's
+flag. 
+### 72
+Could it have been the
+powers of darkness?!
+### 73
+Perhaps... that may be. 
+### 74
+Maybe those monsters were 
+after Langrisser... 
+### 75
+If that's the case... then
+it's all more reason to 
+hurry!
+### 76

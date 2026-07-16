@@ -1,0 +1,261 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+We're here, it's the Twin 
+Castle of Kaiser Digos! 
+### 1
+It stands to reason that
+Digos is at the summit of 
+this castle.
+### 2
+All right, everyone, our
+target is Kaiser Digos! 
+<page>
+Forget the rest! Follow me! 
+### 3
+Ohhh? Is that little Prince 
+Ledin I see over there? 
+<page>
+As I recall, when we stormed
+your precious castle, you 
+<page>
+scurried off alone and left 
+all your friends to die.
+<page>
+He he he... 
+### 4
+Prince, don't listen to that
+man.
+<page>
+Let me teach him some 
+manners.
+### 5
+Will you so carelessly throw
+away your life? 
+<page>
+If that's the case, then
+come here!
+### 6
+Tch! We were too late! Damn 
+that Ledin!?
+<page>
+Ledin, our last match was a 
+nice warm-up, but this ends 
+today!
+### 7
+KISHAAAA! 
+### 8
+?! More monsters have 
+appeared?!
+### 9
+Impossible?!
+<page>
+Are they're trying to attack
+the castle too?!
+### 10
+Lance! Courage is one thing 
+but to continue like this is
+suicide!
+### 11
+What nonsense! After I'm
+done with them, you're next!
+<page>
+Wait your turn! 
+### 12
+A strange object quickly
+darted across the sky.
+<page>
+After passing, something
+fell to the ground. 
+<page>
+Obtained a Rune Stone!
+### 13
+I won't be stopped now! 
+### 14
+You damn fools! 
+<page>
+He he he he...
+### 15
+To have fallen before 
+Digos...
+### 16
+No matter what it takes,
+we're going to reach Digos! 
+### 17
+Augh! 
+### 18
+After coming this far,
+there's no way I'll turn
+back! 
+### 19
+Damn! 
+<page>
+You're going to have to go
+on without me!
+### 20
+Hyaaaa! 
+### 21
+Kyaa! 
+### 22
+Ye scurvy dog!
+### 23
+Sink me!
+<page>
+How'd these swabs get the 
+best of me?!
+### 24
+I'll never give up the
+fight!
+### 25
+I can fight no longer...
+<page>
+I'm retreating! 
+### 26
+Take this!
+### 27
+It's no use!
+### 28
+Forward! To victory!
+### 29
+To be bested her繚 It is a
+disgrace. 
+### 30
+Oh ho, and where do you 
+think you're going?!
+### 31
+Kaiser Digos, please help---
+<page>
+Guhaa...! 
+### 32
+Witness the power of my 
+magic!
+### 33
+Aaah... 
+<page>
+The sky... it looks so... 
+high... 
+### 34
+The likes of you... Defeat
+ME? Don't make me laugh!
+### 35
+Tc繿 damn.
+<page>
+I'll be waiting for you 
+above, you Baldea pests!
+### 36
+BURN! BLAZE! SMOLDER! 
+### 37
+Gyaaa 
+### 38
+Passing here will cost you
+dearly! 
+### 39
+Most impressive, ladies and 
+gentlemen of Baldea. You've 
+managed to best me... 
+### 40
+GYSHEEEE! 
+### 41
+GYSHEEEE! 
+### 42
+GYSHEEEE! 
+### 43
+You don't deserve to be my
+enemy!
+<page>
+Die here! 
+### 44
+Tch!
+### 45
+Lance, that's enough! 
+<page>
+With that injury, there's no
+way you can continue to 
+fight!
+### 46
+You think to show me mercy?!
+Never have I been so
+insulted. 
+### 47
+There's no need to continue 
+this pointless battle!
+<page>
+We only intend to defeat
+Digos and retrieve
+Langrisser. 
+### 48
+You idiot, how can someone
+like you ever hope to defeat
+his majesty?
+### 49
+If we don't recover 
+Langrisser, there can never 
+be peace. 
+<page>
+Because the seal of 
+Langrisser has been broken, 
+<page>
+monsters are awakening in 
+our land! 
+### 50
+......
+<page>
+I don't believe you.
+### 51
+Captain! Are you okay?! 
+<page>
+Please come here, hurry!
+### 52
+... 
+### 53
+Captain!
+### 54
+Remember this. Peace cannot 
+be attained without power.
+<page>
+Langrisser has that power!
+<page>
+His majesty desired power to
+bring an end to the wars. 
+<page>
+For that purpose alone he 
+sought Langrisser.
+<page>
+His majesty has always been 
+the epitome of
+righteousness.
+<page>
+I will never believe he can 
+be defeated by people like
+you. Farewell.
+### 55
+Lance...
+### 56
+Digos is on the top floor!
+<page>
+We have to recover
+Langrisser! 
+### 57
+At las蟐 the time for our 
+final battle with Digos has 
+come! 
+### 58
+So many swabs have died for 
+his cause.
+<page>
+Ho... be we really able to
+stop him? 
+### 59
+Come on, let's hurry! 
+### 60
+Lord Ledin, there appears to
+be two entrances. 
+### 61
+Alright. Let's divide up
+into two groups.
+<page>
+Digos has to be on the top
+floor.
+### 62
+W-Wait!! You damn cowards!
+### 63

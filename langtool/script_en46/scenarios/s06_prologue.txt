@@ -1,0 +1,30 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-06 {03}
+{04:83}Battle at 
+Baldea
+Castle殱
+<page>
+Though they defeated Lance
+and the imperial guards,
+Volkoff was killed by a 
+poison arrow. After 
+recovering from the sadness 
+of his death, the company 
+<page>
+finally arrived at Baldea 
+Castle. However, the great
+general of the Dalsis 
+Empire, Xeld, had already 
+positioned his forces around
+the perimeter to meet them. 
+<page>
+Winning Conditions
+殃Defeat of Xeld, the 
+occupation army commander.
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

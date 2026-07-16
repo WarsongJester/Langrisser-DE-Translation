@@ -1,0 +1,195 @@
+# Dialogue. A box is <=3 lines of <=28 characters. <page> starts a new box.
+# Two ASCII spaces = one blank cell. Keep {..} tags exactly as found.
+### 0
+It looks like this might be 
+an underground temple.
+### 1
+What?! We're surrounded by
+enemies!
+### 2
+What simpletons...
+<page>
+To have blundered into my 
+trap so predictably.
+### 3
+Arrr... this fight be just
+beginnin'!
+<page>
+Ye best give up! Unless ya
+fancy ending up like yer
+mate, Nagya?
+### 4
+Nagya? Hmph... "End up like 
+Nagya," you say?
+<page>
+That man was but an 
+expendable tool, easily 
+replaced. 
+<page>
+All I need is another 
+passing fool to cast my 
+magic upon. 
+### 5
+You are the lowest scum 
+humanity has to offer!
+### 6
+Human desire is such a
+potent catalyst for my
+magic.
+<page>
+If I recall, I once incited 
+a ma盪 Ah, yes, Kaiser Digos
+<page>
+of Dalsis. I had him steal
+Langrisser. 
+<page>
+He hadn't the faintest idea 
+he'd become a puppet. It was
+<page>
+quite entertaining while it 
+lasted. 
+### 7
+... You... You蜆fiend! Do 
+you have ANY idea how much
+suffering you have caused!
+### 8
+Spare me your platitudes! 
+<page>
+I tire of this useless
+conversation. Farewell, my
+"heroic" friends. 
+### 9
+Hurry!
+<page>
+He may try to put another 
+curse on one of us! 
+### 10
+Miserable fools!
+<page>
+You shall dance in the palm 
+of my hand until the very 
+moment you perish!
+### 11
+I'll never be defeated! 
+### 12
+How pathetic. 
+<page>
+Perhaps now you grasp the 
+utter futility of your
+existence.
+### 13
+Guah! 
+<page>
+This is the end...
+### 14
+Take this!
+### 15
+Maybe I need a few more 
+years of studying the 
+sword...? 
+### 16
+You filthy bastards!
+### 17
+It's no use!
+<page>
+I can't move my feet! 
+### 18
+Even my patience has its
+limits! 
+### 19
+Eeeek!
+### 20
+Ye'll go down in a trice!!
+### 21
+Guh...
+<page>
+I've run aground! 
+### 22
+I won't let you have our
+world!
+### 23
+Aaah... 
+### 24
+Prepare to die! 
+### 25
+This is the end of the line 
+for me... 
+### 26
+I will not allow you to do
+as you please with our
+world!
+### 27
+This will not do! 
+### 28
+Are you challenging me? 
+### 29
+H-How...
+<page>
+How did I lose?!
+### 30
+Hyaaa! You pest!
+### 31
+No way! Impossible! Uwaaa!
+### 32
+Huh?
+<page>
+You want to fight me? 
+### 33
+Uwaaaa! 
+<page>
+Stop it, please!
+### 34
+By my hand, I'll deliver you
+into eternal slumber! 
+### 35
+M... Master 竡ser...! 
+### 36
+Be good and die for me. 
+### 37
+I went as far as I could... 
+### 38
+Very well. I will end your
+life if you wish it.
+### 39
+Kyaaa!
+### 40
+I'll murder you all!
+### 41
+Uweeee! 
+<page>
+I've been defeated... 
+### 42
+Shall I make you my thralls?
+<page>
+The world of darkness is
+delightful... you shall see!
+### 43
+It's too late, you insects. 
+Lord B竍er has already begun
+<page>
+the revival of our ancient
+god...
+<page>
+Ungh! Guwaaaa!
+### 44
+Your Highness, we cannot
+waste another moment! 
+### 45
+Your Highness, we cannot
+waste another moment! 
+### 46
+Lord Ledin, I've found a
+stairway descending into the
+darkness! 
+### 47
+Your Highness, I found a
+stairway descending into the
+darkness! 
+### 48
+Right, let's split into two 
+groups. 
+<page>
+We'll find B竍er... and stop
+his plans!
+### 49
+### 50

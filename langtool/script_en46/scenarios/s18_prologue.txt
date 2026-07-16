@@ -1,0 +1,26 @@
+# Keep the structure (tags, <page>, line breaks) close to the original.
+### 0
+{05}
+SCENARIO-18 {03}
+{04:83}Within the
+Ruin麾
+<page>
+Finally, Ledin and company
+have penetrated Velzeria. 
+Amazingly enough, ruins of
+the ancient battle of light 
+and dark still dot the
+cursed land. Through the
+<page>
+dark magic of Nicolis,
+Nagya, who had been 
+defeated, appeared before 
+them once aghain. 
+<page>
+Winning Conditions
+殃Defeat of Nagya 
+<page>
+Losing Conditions 
+殃Death of Ledin
+<page>
+

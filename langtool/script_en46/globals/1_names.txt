@@ -1,0 +1,189 @@
+# One name per string, single line, <=16 characters (hard engine limit).
+### 0
+### 1
+Ledin 
+### 2
+Narm
+### 3
+Chris 
+### 4
+Taylor
+### 5
+Jessica 
+### 6
+Albert
+### 7
+Hawking 
+### 8
+Lance 
+### 9
+Thorn 
+### 10
+Volkoff 
+### 11
+Illzach 
+### 12
+Kossel
+### 13
+Sir Galius
+### 14
+Digos 
+### 15
+Xeld
+### 16
+Doh Motov 
+### 17
+Kah Iroh
+### 18
+Laias 
+### 19
+Laetita 
+### 20
+Antonov 
+### 21
+Celia 
+### 22
+Bernoulli 
+### 23
+Nervye
+### 24
+Zaldaff 
+### 25
+Scaladis
+### 26
+Galvez
+### 27
+Morgan
+### 28
+Kirchner
+### 29
+Distin
+### 30
+Asam
+### 31
+Lythrum 
+### 32
+Soldier 
+### 33
+Commander 
+### 34
+Priest
+### 35
+Villager
+### 36
+Pirate
+### 37
+Vigilante 
+### 38
+Nagya 
+### 39
+Adon
+### 40
+Sampson 
+### 41
+Valan 
+### 42
+Commander 
+### 43
+Werewolf
+### 44
+Gelgazer
+### 45
+Scylla
+### 46
+Stone Golem 
+### 47
+Lich
+### 48
+Living Armor
+### 49
+Vampire Lord
+### 50
+Ghost 
+### 51
+Kerberos
+### 52
+Master Dino 
+### 53
+Wyvern
+### 54
+Great Dragon
+### 55
+Minotaur
+### 56
+Kraken
+### 57
+Succubus
+### 58
+Demon Lord
+### 59
+Aniki 
+### 60
+Witch 
+### 61
+Priest
+### 62
+Soldier 
+### 63
+Faias 
+### 64
+Roc 
+### 65
+Necromancer 
+### 66
+Nicolis 
+### 67
+Hideous 
+### 68
+Phoenix 
+### 69
+Chaos 
+### 70
+Lushiris
+### 71
+Drafim
+### 72
+Ogre
+### 73
+Jormungand
+### 74
+Larcas
+### 75
+Morgan
+### 76
+Lirapp
+### 77
+Alfan 
+### 78
+Matsunith 
+### 79
+Ramisrose 
+### 80
+竡ser 
+### 81
+Orgitans
+### 82
+Actract 
+### 83
+Tsudark 
+### 84
+Haisgit 
+### 85
+Terlhorn
+### 86
+Zervith 
+### 87
+Monster 
+### 88
+Barents 
+### 89
+Lukword 
+### 90
+Aksel 
+### 91
+Efreet
+### 92
+Lersath 
+### 93
+Shika Kinfolk 
+### 94
