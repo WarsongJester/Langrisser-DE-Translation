@@ -1,4 +1,5 @@
-# Langrisser I (Sega Saturn, *Dramatic Edition*) — English Fan Translation
+[![Built with Claude](https://img.shields.io/badge/Built%20with-Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
+# Langrisser DE (Sega Saturn, *Dramatic Edition*) — English Fan Translation
 
 A from-scratch English fan translation of **Langrisser I**, the first half of *Langrisser –
 Dramatic Edition* (Sega Saturn, Japan-only). Langrisser II on the same disc is untouched.
